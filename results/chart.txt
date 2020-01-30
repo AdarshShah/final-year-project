@@ -1,0 +1,3812 @@
+ itemid |                                              label                                              
+--------+-------------------------------------------------------------------------------------------------
+      1 | % Inspir. Time
+      2 | ABI (L)
+      3 | ABI (R)
+      4 | ABI Ankle BP [Right]
+      5 | ABI Brachial BP [Right]
+      6 | ABP [Systolic]
+     24 | ART Lumen Volume
+     25 | AV Interval
+     26 | AaDO2
+     27 | Abdominal Assessment
+     28 | Abdominal Girth
+     29 | Access mmHg
+     31 | Activity
+     32 | Activity Tolerance
+     34 | Add Gas Flow (Vent)
+     35 | Additional Gas (lpm)
+     36 | Additional Gas(Mask)
+     37 | Additional Gas(Vent)
+     38 | Airway
+     39 | Airway Size
+     40 | Airway Type
+     41 | Alarms Activated
+     43 | Angio Appearance #1 [Attribute 1]
+     44 | Angio Appearance #2 [Attribute 1]
+     45 | Angio Dressing #1
+     46 | Angio Dressing #2
+     47 | Angio Site #1
+     48 | Angio Site #2
+     49 | Anti-Embolism [Device]
+     50 | Apnea Time Interval
+     51 | Arterial BP [Systolic]
+     52 | Arterial BP Mean
+     53 | Arterial Pressure
+     54 | Assistance Device
+     55 | Assisted Systole
+     56 | Atrial Pacemaker [Sense]
+     58 | Atrial Pacemaker [mA]
+     59 | Augmented Diastole
+     60 | Auto-PEEP Level
+     61 | AvDO2
+     62 | BAEDP
+     63 | BIPAP - BPM
+     64 | BIPAP - EPAP
+     65 | BIPAP - Est. Vt
+     66 | BIPAP - IPAP
+     67 | BIPAP - O2 lpm
+     68 | BIPAP-Mode
+     69 | BSA
+     70 | BSA - English
+     71 | BSA - Metric
+     72 | Back Care
+     74 | Base Excess
+     75 | Baseline Current/mA
+     76 | Bath
+     77 | Behavior
+     78 | Bladder Irrigation
+     79 | Blood Flow ml/min
+     80 | Bowel Sounds
+     81 | Brachial Pulse [Right]
+     82 | Braden Activity
+     83 | Braden Frict/Shear
+     84 | Braden Mobility
+     85 | Braden Moisture
+     86 | Braden Nutrition
+     87 | Braden Score
+     88 | Braden SensoryPercep
+     89 | C.O. (fick)
+     90 | C.O.(thermodilution)
+     91 | CPM
+     92 | CPP
+     93 | CT #1 Crepitus
+     94 | CT #1 Drainage
+     95 | CT #1 Dressing
+     96 | CT #1 [Fluctuate]
+     97 | CT #1 Suction Amount
+     98 | CT #2 Crepitus
+     99 | CT #2 Drainage
+    100 | CT #2 Dressing
+    101 | CT #2 [Fluctuate]
+    102 | CT #2 Suction Amount
+    103 | CT #3 Crepitus
+    104 | CT #3 Drainage
+    105 | CT #3 Dressing
+    106 | CT #3 [Fluctuate]
+    107 | CT #3 Suction Amount
+    108 | CT #4 Crepitus
+    109 | CT #4 Drainage
+    110 | CT #4 Dressing
+    111 | CT #4 [Fluctuate]
+    112 | CT #4 Suction Amount
+    113 | CVP
+    114 | CaO2
+    115 | Capillary Refill [Right]
+    116 | Cardiac Index
+    118 | Cerv Collar Status
+    119 | Cervical Collar Type
+    121 | Chest PT [Right]
+    122 | Chest Tube Site #1
+    123 | Chest Tube Site #2
+    124 | Chest Tube Site #3
+    125 | Chest Tube Site #4
+    127 | Circulation/SkinInt
+    128 | Code Status
+    129 | Collar Care
+    130 | Communication
+    131 | Compliance (40-60ml)
+    132 | Compliance-Corrected
+    133 | Cont.Nebulizer(Drug)
+    134 | Cooling [Device]
+    135 | Corneal Reflex [Right]
+    136 | Cough Effort
+    137 | Cough Reflex
+    138 | Cough Type
+    139 | Cough/Deep Breathe
+    140 | Cuff Leak
+    141 | Cuff Pressure-Airway
+    142 | Current Goal
+    143 | CvO2
+    146 | Dialysate Flow ml/hr
+    147 | Dialysate Infusing
+    148 | Dialysis Access Site
+    149 | Dialysis Access Type
+    150 | Dialysis Machine
+    151 | Dialysis Site Appear
+    152 | Dialysis Type
+    153 | Diastolic Unloading
+    154 | Diet Type
+    155 | Doppler BP
+    156 | Dorsal PedPulse [Right]
+    157 | ETT [Mark]
+    158 | ETT Position Change
+    159 | Ectopy Frequency
+    160 | Ectopy Frequency 2
+    161 | Ectopy Type
+    162 | Ectopy Type 2
+    163 | Edema #1 [Location]
+    164 | Edema #2 [Location]
+    165 | Education Barrier
+    166 | Education Handout
+    167 | Education Learner
+    168 | Education Method
+    169 | Education Readiness
+    170 | Education Response
+    171 | Education Topic #1
+    172 | Education Topic #2
+    173 | Effluent Press mmHg
+    174 | Emesis [Appearance]
+    175 | Energy Expenditure
+    176 | Epi Infusion Rate
+    177 | Epidural Appearance
+    178 | Epidural Bolus
+    179 | Epidural Location
+    180 | Epidural Medication
+    181 | Epidural Total Dose
+    183 | Eye Care
+    184 | Eye Opening
+    185 | FIO2 Alarm-High
+    186 | FIO2 Alarm-Low
+    187 | Family Communication
+    188 | Femoral Pulse [Right]
+    189 | FiO2 (Analyzed)
+    190 | FiO2 Set
+    192 | Filter Pressure mmHg
+    193 | Flatus
+    194 | Flow-By (lpm)
+    195 | Flow-by Sensitivity
+    197 | Follows Commands
+    198 | GCS Total
+    199 | GI [Guaiac]
+    200 | GI Intub #1 [Type]
+    201 | GI Intub #2 [Type]
+    202 | GI#1 Tube PlaceCheck
+    203 | GI#1 Tube [Status]
+    204 | GI#2 Tube PlaceCheck
+    205 | GI#2 Tube [Status]
+    207 | GU Catheter Size
+    208 | Gag Reflex
+    209 | Graft/Flap Pulse
+    210 | HOB
+    211 | Heart Rate
+    212 | Heart Rhythm
+    213 | Heart Sounds
+    216 | Height of Bed
+    217 | Heparin Dose
+    218 | High Insp. Pressure
+    219 | High Resp. Rate
+    221 | I:E Ratio
+    222 | I:E Ratio-Calculated
+    223 | I:E Ratio-TCPCV
+    224 | IABP Mean
+    225 | IABP setting
+    226 | ICP
+    229 | INV Line#1 [Type]
+    230 | INV Line#1 Zero/Cal
+    232 | INV Line#1SiteAppear
+    235 | INV Line#2 [Type]
+    236 | INV Line#2 Zero/Cal
+    238 | INV Line#2SiteAppear
+    241 | INV Line#3 [Type]
+    242 | INV Line#3 Zero/Cal
+    244 | INV Line#3SiteAppear
+    247 | INV Line#4 [Type]
+    248 | INV Line#4 Zero/Cal
+    250 | INV Line#4SiteAppear
+    253 | INV Line#5 [Type]
+    254 | INV Line#5 Zero/Cal
+    256 | INV Line#5SiteAppear
+    259 | INV Line#6 [Type]
+    260 | INV Line#6 Zero/Cal
+    262 | INV Line#6SiteAppear
+    265 | INV Line#7 [Type]
+    266 | INV Line#7 Zero/Cal
+    268 | INV Line#7SiteAppear
+    271 | INV Line#8 [Type]
+    272 | INV Line#8 Zero/Cal
+    274 | INV Line#8SiteAppear
+    283 | INV#1 WaveformAppear
+    284 | INV#2 WaveformAppear
+    285 | INV#3 WaveformAppear
+    286 | INV#4 WaveformAppear
+    287 | INV#5 WaveformAppear
+    288 | INV#6 WaveformAppear
+    289 | INV#7 WaveformAppear
+    290 | INV#8 WaveformAppear
+    294 | IV #1 [Site]
+    297 | IV #2 [Site]
+    300 | IV #3 [Site]
+    303 | IV #4 [Site]
+    320 | IV Site #1
+    321 | IV Site #2
+    322 | IV Site #3
+    323 | IV Site #4
+    324 | IV Site Appear #1
+    325 | IV Site Appear #2
+    326 | IV Site Appear #3
+    327 | IV Site Appear #4
+    338 | Imp Skin Cleanse #1
+    339 | Imp Skin Cleanse #2
+    340 | Imp Skin Cleanse #3
+    341 | Imp Skin Cleanse #4
+    342 | Imp Skin Cleanse #5
+    343 | Imp Skin Cleanse #6
+    344 | ImpSkin Character #1
+    345 | ImpSkin Character #2
+    346 | ImpSkin Character #3
+    347 | ImpSkin Character #4
+    348 | ImpSkin Character #5
+    349 | ImpSkin Character #6
+    350 | ImpSkin #3 [Drain]
+    351 | ImpSkin #6 [Drain]
+    352 | ImpSkin #1 [Drain]
+    353 | ImpSkin #2 [Drain]
+    354 | ImpSkin #4 [Drain]
+    355 | ImpSkin #5 [Drain]
+    356 | ImpSkin Treatment #1
+    357 | ImpSkin Treatment #2
+    358 | ImpSkin Treatment #3
+    359 | ImpSkin Treatment #4
+    360 | ImpSkin Treatment #5
+    361 | ImpSkin Treatment #6
+    362 | ImpSkin Wound Base#1
+    363 | ImpSkin Wound Base#2
+    364 | ImpSkin Wound Base#3
+    365 | ImpSkin Wound Base#4
+    366 | ImpSkin Wound Base#5
+    367 | ImpSkin Wound Base#6
+    368 | ImpSkin #1 [Width]
+    369 | ImpSkin #2 [Width]
+    370 | ImpSkin #3 [Width]
+    371 | ImpSkin #4 [Width]
+    372 | ImpSkin #5 [Width]
+    373 | ImpSkin #6 [Width]
+    374 | Impaired Skin Site#1
+    375 | Impaired Skin Site#2
+    376 | Impaired Skin Site#3
+    377 | Impaired Skin Site#4
+    378 | Impaired Skin Site#5
+    379 | Impaired Skin Site#6
+    380 | Inc Cleansing #1
+    381 | Inc Cleansing #2
+    382 | Inc Cleansing #3
+    383 | Inc Cleansing #4
+    384 | Inc Cleansing #5
+    385 | Inc Cleansing #6
+    386 | Inc #1 [Closure]
+    387 | Inc #2 [Closure]
+    388 | Inc #3 [Closure]
+    389 | Inc #4 [Closure]
+    390 | Inc #5 [Closure]
+    391 | Inc #6 [Closure]
+    392 | Inc #1 [Drainage]
+    393 | Inc #2 [Drainage]
+    394 | Inc #3 [Drainage]
+    395 | Inc #4 [Drainage]
+    396 | Inc #5 [Drainage]
+    397 | Inc #6 [Drainage]
+    398 | Inc #1 [Dressing]
+    399 | Inc #2 [Dressing]
+    400 | Inc #3 [Dressing]
+    401 | Inc #5 [Dressing]
+    402 | Inc #6 [Dressing]
+    403 | Inc #4 [Dressing]
+    404 | Inc/Wound Packing #1
+    405 | Inc/Wound Packing #2
+    406 | Inc/Wound Packing #3
+    407 | Inc/Wound Packing #4
+    408 | Inc/Wound Packing #5
+    409 | Inc/Wound Packing #6
+    410 | Incentive Spirometry
+    411 | Incision/Wound #1
+    412 | Incision/Wound #2
+    413 | Incision/Wound #3
+    414 | Incision/Wound #4
+    415 | Incision/Wound #5
+    416 | Incision/Wound #6
+    417 | Inspired Gas Temp
+    419 | KneeImmobilizeLoc [Right]
+    421 | LCW
+    422 | LCWI
+    423 | LL Strength/Movement
+    424 | LLE [Temp]
+    425 | LLL Lung Sounds
+    426 | LU Strength/Movement
+    427 | LUE [Temp]
+    428 | LUL Lung Sounds
+    429 | LVAD Flow LPM
+    430 | LVSW
+    431 | LVSWI
+    432 | Level of Conscious
+    434 | Low Exhaled Min Vol
+    435 | Low Exhaled Vt
+    436 | Low Insp. Pressure
+    437 | Low Peep
+    438 | MAP
+    439 | MDI #1 [Puff]
+    440 | MDI #2 [Puff]
+    441 | MDI #3 [Puff]
+    442 | Manual BP [Systolic]
+    443 | Manual BP Mean(calc)
+    444 | Mean Airway Pressure
+    445 | Mech. Minute Volume
+    446 | Micro-Neb Treatment
+    447 | Minimal Leak Present
+    448 | Minute Volume
+    449 | Minute Volume (Set)
+    450 | Minute Volume(Obser)
+    454 | Motor Response
+    455 | NBP [Systolic]
+    456 | NBP Mean
+    457 | NMB Medication
+    458 | Nares [Right]
+    459 | Neg Insp Force(>-25)
+    460 | Nerve Stimulated
+    461 | Neuro Drain Drainage
+    462 | Neuro Drain [Level]
+    463 | Neuro Drain Status
+    464 | Neuro Drain Type
+    465 | Neuro Symptoms
+    466 | Nursing Consultation
+    467 | O2 Delivery Device
+    468 | O2 Delivery Device#2
+    469 | O2 Delivery Mode
+    470 | O2 Flow (lpm)
+    471 | O2 Flow (lpm) #2
+    472 | O2AV
+    473 | O2AVI
+    474 | O2ER
+    477 | Oral Care
+    478 | Oral Cavity
+    479 | Orientation
+    480 | Orthostat BP sitting [Systolic]
+    481 | Orthostat HR sitting
+    482 | OrthostatBP standing [Systolic]
+    483 | OrthostatHR standing
+    484 | Orthostatic BP lying [Systolic]
+    485 | Orthostatic HR lying
+    486 | Ostomy Care
+    487 | Ostomy [Type]
+    490 | PAO2
+    491 | PAP Mean
+    492 | PAP [Systolic]
+    493 | PCA 1 Hr Limit (mg)
+    494 | PCA Basal Rate
+    495 | PCA Bolus
+    496 | PCA Dose
+    497 | Patient controlled analgesia (PCA) [Inject]
+    498 | PCA Lockout (Min)
+    499 | PCA Medication
+    500 | PCA Total Dose
+    501 | PCV Exh Vt (Obser)
+    502 | PCV Insp Vt (Obser)
+    503 | PCV Set Insp. Press
+    504 | PCWP
+    505 | PEEP
+    506 | PEEP Set
+    507 | PIP
+    508 | PT Splint #1 [Location]
+    509 | PT Splint #2 [Location]
+    510 | PT Splint #3 [Location]
+    511 | PT Splint #4 [Location]
+    512 | PVR
+    513 | PVRI
+    515 | Pacemaker Mode
+    516 | Pacemaker Type
+    517 | Pacer Rate
+    518 | Pacer Wire Condition
+    519 | Pacer Wires Atrial
+    520 | Pacer Wires Ground
+    521 | Pacer Wires Vent
+    522 | Pain Cause
+    524 | Pain Level (Rest)
+    525 | Pain Location
+    526 | Pain Management [Route/Status #1]
+    527 | Pain Type
+    529 | Pause Time %
+    530 | Peak Flow
+    535 | Peak Insp. Pressure
+    536 | Peri Care
+    537 | Pericard Drain Site
+    538 | Pericard Drain Stat
+    539 | Pericardial Drainage
+    541 | PetCO2/TcCO2
+    542 | Pin Care
+    543 | Plateau Pressure
+    545 | Plateau-Off
+    546 | Popliteal Pulse [Right]
+    547 | Position
+    548 | Position Change
+    549 | PostTib. Pulses [Right]
+    550 | Precautions
+    551 | Pressure Sore #1 [Stage]
+    552 | Pressure Sore #2 [Stage]
+    553 | Pressure Sore #3 [Stage]
+    554 | Press Sore Site #2
+    555 | PressSore Depth #1
+    556 | PressSore Depth #2
+    557 | PressSore Depth #3
+    558 | Pressure Sore #1 [Drainage]
+    559 | Pressure Sore #2 [Drainage]
+    560 | Pressure Sore #3 [Drainage]
+    561 | Pressure Sore #1 [Width]
+    562 | Pressure Sore #2 [Width]
+    563 | Pressure Sore #3 [Width]
+    564 | PressSoreCleansing#1
+    565 | PressSoreCleansing#2
+    566 | PressSoreCleansing#3
+    567 | PressSoreTreatment#1
+    568 | PressSoreTreatment#2
+    569 | PressSoreTreatment#3
+    570 | PressSoreWoundBase#1
+    571 | PressSoreWoundBase#2
+    572 | PressSoreWoundBase#3
+    573 | Pressure Sore Odor#1
+    574 | Pressure Sore Odor#2
+    575 | Pressure Sore Odor#3
+    576 | Pressure Sore Site#1
+    577 | Pressure Sore Site#3
+    578 | Pressure Support
+    579 | PressureReduceDevice
+    580 | Previous Weight
+    581 | Previous WeightF
+    582 | Procedures
+    583 | Pulses Paradoxus
+    584 | Pupil Response [Right]
+    585 | Pupil Size [Right]
+    586 | QTc
+    588 | RCW
+    589 | RCWI
+    590 | RL Strength/Movement
+    591 | RLE [Temperature]
+    592 | RLE [Sensation]
+    593 | RLL Lung Sounds
+    594 | ROM [Type]
+    595 | RSBI (<200)
+    596 | RU Strength/Movement
+    597 | RUE [Temperature]
+    598 | RUE [Sensation]
+    599 | RUL Lung Sounds
+    601 | RVSW
+    602 | RVSWI
+    603 | Radial Pulse [Right]
+    604 | Radiologic Study
+    605 | Reason For Restraint
+    606 | Rec. Breath Pressure
+    607 | Rec.Breath Time(sec)
+    608 | Recruit Breath
+    609 | Remote Alarm
+    610 | Removed x 5 Mins
+    611 | Replace Rate ml/hr
+    612 | Replace.Fluid Infuse
+    613 | Resp Quotient - (R)
+    614 | Resp Rate (Spont)
+    615 | Resp Rate (Total)
+    616 | Respiratory Effort
+    617 | Respiratory Pattern
+    618 | Respiratory Rate
+    619 | Respiratory Rate Set
+    620 | Responds to Stimuli [Type]
+    621 | Restraint Location
+    622 | Restraint Type
+    623 | Restraints Evaluated
+    624 | Return Pressure mmHg
+    625 | SVI
+    626 | SVR
+    627 | SVRI
+    629 | Seizure Activity
+    630 | Seizure Duration
+    631 | Sensitivity-Vent
+    632 | Sensory Level
+    637 | Side Rails
+    638 | Sigh Rate
+    639 | Sigh Tidal Volume
+    640 | Significant Events
+    641 | Sitter
+    642 | Skin Care
+    643 | Skin Color
+    644 | Skin Integrity
+    645 | Skin [Temperature]
+    646 | SpO2
+    648 | Speech
+    649 | Spiritual Support
+    650 | Spon Minute VE L/min
+    651 | Spon RR (Mech.)
+    652 | Spon. Vt (L) (Mech.)
+    653 | Spont. Resp. Rate
+    654 | Spont. Tidal Volume
+    655 | Spontaneous Movement
+    656 | Sputum [Color]
+    657 | Sputum Source
+    659 | Stool [Color]
+    660 | Stool Guaiac
+    661 | Stool Management
+    662 | Stroke Volume
+    663 | Support Systems
+    664 | Swan SVO2
+    665 | System Integrity
+    666 | Systolic Unloading
+    667 | TCPCV Apnea Settings
+    668 | TCPCV Fixed I Time
+    669 | TCPCV I:E Ratio
+    670 | TCPCV Insp. Pressure
+    671 | TCPCV Insp. Time
+    672 | TCPCV-MAP
+    673 | TOF Response/Twitch
+    674 | Temp. Site
+    676 | Temperature C
+    677 | Temperature C (calc)
+    678 | Temperature F
+    679 | Temperature F (calc)
+    680 | Therapeutic Bed
+    681 | Tidal Volume
+    682 | Tidal Volume (Obser)
+    683 | Tidal Volume (Set)
+    684 | Tidal Volume (Spont)
+    686 | Total PEEP Level
+    687 | Trach Care
+    688 | Trach [Cuff]
+    690 | Trach Size
+    691 | Tracheostomy Cuff
+    692 | Tracheostomy Type
+    693 | Tract/Imm Location#1
+    694 | Tract/Imm Location#2
+    695 | Tract/Imm Location#3
+    697 | Traction/Immobile #1
+    698 | Traction/Immobile #2
+    699 | Traction/Immobile #3
+    702 | Transcut Pad Place
+    704 | Turn
+    705 | Untoward Effect
+    706 | Urine [Color]
+    707 | Urine Source
+    708 | VAD Beat Rate [Right]
+    709 | VCO2 (180-200)
+    710 | VEN Lumen Volume
+    712 | VO2 (200-250)
+    715 | Vd/Vt Ratio (40-60%)
+    716 | Venous Pressure
+    717 | Ventricular Pacemaker [Sense]
+    719 | Ventricular Pacemaker [mA]
+    720 | Ventilator Mode
+    721 | Ventilator No.
+    722 | Ventilator Type
+    723 | Verbal Response
+    724 | Vision - EPAP
+    725 | Vision - IPAP
+    726 | Vision - Mode
+    727 | Vision FiO2
+    728 | Vision Mask
+    729 | Vision Rate
+    730 | Vital Cap (>1.0)L
+    731 | Warming [Device]
+    732 | Waveform-Vent
+    733 | Weight Change
+    734 | Working Pressure
+    735 | Wound Care
+    741 | avDO2
+    742 | calprevflg
+    762 | Admit Wt
+    763 | Daily Weight
+    768 | ACT (102-142)
+    769 | ALT
+    770 | AST
+    772 | Albumin (>3.2)
+    773 | Alk. Phosphate
+    774 | Ammonia
+    775 | Amylase
+    776 | Arterial Base Excess
+    777 | Arterial CO2(Calc)
+    778 | Arterial PaCO2
+    779 | Arterial PaO2
+    780 | Arterial pH
+    781 | BUN (6-20)
+    782 | Bleeding Time
+    783 | Blood Products
+    784 | CPK
+    785 | CPK/MB
+    786 | Calcium (8.4-10.2)
+    787 | Carbon Dioxide
+    788 | Chloride (100-112)
+    789 | Cholesterol (<200)
+    791 | Creatinine (0-1.3)
+    792 | Cyclosporin
+    793 | D-Dimer (0-500)
+    794 | Differential-Atyps
+    795 | Differential-Bands
+    796 | Differential-Basos
+    797 | Differential-Eos
+    798 | Differential-Lymphs
+    799 | Differential-Monos
+    800 | Differential-Polys
+    801 | Digoxin
+    802 | Dilantin
+    803 | Direct Bili (0-0.3)
+    804 | Ethanol
+    805 | FK506
+    806 | Fibrinogen (150-400)
+    807 | Fingerstick Glucose
+    808 | Gentamycin/Peak
+    809 | Gentamycin/Random
+    810 | Gentamycin/Trough
+    811 | Glucose (70-105)
+    812 | HCO3
+    813 | Hematocrit
+    814 | Hemoglobin
+    815 | INR (2-4 ref. range)
+    816 | Ionized Calcium
+    817 | LDH
+    818 | Lactic Acid(0.5-2.0)
+    820 | Lipase
+    821 | Magnesium (1.6-2.6)
+    822 | Mixed Venous O2
+    823 | Mixed Venous O2% Sat
+    824 | PT(11-13.5)
+    825 | PTT(22-35)
+    826 | Phenobarbital
+    827 | Phosphorous(2.7-4.5)
+    828 | Platelets
+    829 | Potassium (3.5-5.3)
+    831 | Procan
+    832 | Procan Napa
+    833 | RBC
+    834 | SaO2
+    835 | Sed Rate
+    836 | Serum Osmolality
+    837 | Sodium (135-148)
+    838 | SvO2
+    842 | Theophylline
+    844 | Thrombin (16-21)
+    845 | Tobramycin/Peak
+    846 | Tobramycin/Random
+    847 | Tobramycin/Trough
+    848 | Total Bili (0-1.5)
+    849 | Total Protein(6.5-8)
+    850 | Triglyceride (0-200)
+    851 | Troponin
+    852 | Tylenol
+    853 | Uric Acid (2.7-7.0)
+    854 | Vancomycin/Peak
+    855 | Vancomycin/Random
+    856 | Vancomycin/Trough
+    857 | Venous CO2(Calc)
+    858 | Venous PvCO2
+    859 | Venous PvO2
+    860 | Venous pH
+    861 | WBC (4-11,000)
+    916 | Allergy 1
+    917 | Diagnosis/op
+    919 | Service
+    920 | Admit Ht
+    924 | Readmission
+    925 | Marital Status
+    926 | Religion
+    927 | Allergy 2
+    930 | Ext
+    935 | Allergy 3
+    938 | blood cultures
+    940 | trach care
+    941 | urine culture
+    968 | EKG
+    970 | TRACH CARE
+    972 | passy muir valve
+    977 | TRACHE CARE
+    981 | dilaudid
+    986 | ABG Hct
+    993 | bladder pressure
+    996 | BLADDER PRESSURE
+   1001 | rotation
+   1003 | cuff pressure
+   1010 | High exhaled min vol
+   1015 | PASSY MUIR VALVE
+   1022 | Trach care
+   1027 | abdominal binder
+   1037 | O2 %
+   1043 | Less Restrict Meas.
+   1044 | Pain Level
+   1045 | Pain Level/Response
+   1046 | Pain Present
+   1047 | Range of Motion
+   1051 | passy-muir valve
+   1054 | protonix
+   1060 | ammonia
+   1062 | PMV on/off
+   1063 | bath
+   1066 | shave
+   1078 | BATH
+   1087 | Pain Assess Method
+   1089 | PainLevel Acceptable
+   1093 | coccyx drsg change
+   1097 | Pantoprazole  mg/hr
+   1101 | PROTONIX
+   1115 | passey muir valve
+   1118 | multipodus boot
+   1119 | seizure pads
+   1120 | trach
+   1125 | Service Type
+   1126 | Art.pH
+   1127 | WBC   (4-11,000)
+   1136 | vasopressin
+   1162 | BUN
+   1188 | dressing change
+   1191 | Glucometer
+   1203 | fleets enema
+   1211 | Insp Time %
+   1226 | Pantoprazole mg/hr
+   1227 | autopeep
+   1286 | PT
+   1311 | XIGRIS
+   1328 | Cartridge/Bag Change
+   1329 | Initials (2 RNs) [RN #1]
+   1330 | Med Wasted [Drug]
+   1336 | Protonix
+   1337 | Riker-SAS Scale
+   1340 | high minute volume
+   1348 | podus boots
+   1359 | complete bath
+   1375 | bed bath
+   1377 | bivalirudin
+   1382 | bedbath
+   1390 | DO2
+   1391 | DO2I
+   1393 | F-Ideal Body Wgt Kg
+   1394 | Height Inches
+   1395 | M-Ideal Body Wgt Kg
+   1397 | RSBI (<100)
+   1401 | zzO2AV
+   1402 | zzO2AVI
+   1411 | Bladder Pressure
+   1418 | multipodus boots
+   1420 | Aggitation
+   1421 | Anxiety
+   1422 | Ataxia
+   1423 | Auditory Disturbance
+   1424 | CIWA Sum Total
+   1425 | Daily Wake Up
+   1426 | Drowsiness
+   1427 | GI Prophylaxis [Drug #1]
+   1428 | Headache
+   1429 | Insomnia
+   1430 | Nausea and Vomiting
+   1431 | Orient/Clouding Sens
+   1432 | Paroxysmal Sweats
+   1433 | Seizure
+   1434 | Slurred Speech
+   1435 | Sustained Nystamus
+   1436 | Tactile Disturbances
+   1437 | Tremor
+   1438 | Ulnar Pulse [Right]
+   1439 | Visual Disturbances
+   1464 | ZZZly Wake Up
+   1466 | ATC
+   1479 | IV #1 Reason DC'D
+   1480 | IV #2 Reason DC'D
+   1481 | IV #3 Reason DC'D
+   1482 | IV #4 Reason DC'D
+   1483 | RSBI Not Completed
+   1484 | Risk for Falls
+   1486 | High Minute Volume
+   1496 | HIGH MIN. VENT.
+   1499 | high min. vol
+   1503 | Bed Bath
+   1510 | high Ve
+   1513 | Hi Min Vol
+   1517 | Readmit <48 hrs
+   1520 | ACT
+   1521 | Albumin
+   1522 | Calcium
+   1523 | Chloride
+   1524 | Cholesterol
+   1525 | Creatinine
+   1526 | D-Dimer
+   1527 | Direct Bili
+   1528 | Fibrinogen
+   1529 | Glucose
+   1530 | INR
+   1531 | Lactic Acid
+   1532 | Magnesium
+   1533 | PTT
+   1534 | Phosphorous
+   1535 | Potassium
+   1536 | Sodium
+   1537 | Thrombin
+   1538 | Total Bili
+   1539 | Total Protein
+   1540 | Triglyceride
+   1541 | Uric Acid
+   1542 | WBC
+   1546 | high ve
+   1551 | high MV
+   1555 | Apnea Interval
+   1565 | High MV Limit
+   1566 | high min vol
+   1567 | apnea
+   1568 | high me
+   1571 | ABG
+   1578 | HI/Minute/Vol
+   1581 | APRV
+   1582 | P high
+   1586 | Xigris mcg/kg/hr
+   1587 | xigris mg/hr
+   1591 | waffle boots
+   1596 | HIGH MV
+   1599 | HIGH MINUTE VENT.
+   1600 | HIGH MINUTE VOLUME
+   1602 | hepa filter
+   1603 | multi podis boots
+   1612 | Pres. High
+   1613 | Pres. Low
+   1614 | Time High
+   1615 | Time Low
+   1616 | High MV.
+   1621 | High/Min/Vent
+   1622 | Alarms
+   1623 | Parameters Checked
+   1624 | PreSep Catheter SVO2
+   1630 | podis boots
+   1632 | PMV
+   1637 | pneumo boots
+   1639 | High MV
+   1650 | high mv
+   1653 | Bed Alarm
+   1655 | Insp. Time
+   1656 | Press Low
+   1657 | Pressw High
+   1658 | driving pressure
+   1659 | high min vent
+   1662 | High min vol
+   1664 | Low exhaled min vol
+   1666 | phigh
+   1667 | plow
+   1668 | thigh
+   1669 | tlow
+   1671 | act
+   1673 | PH
+   1678 | Time disconnect
+   1682 | multi podus boots
+   1684 | APNEA
+   1685 | HI MV
+   1688 | passy muir
+   1689 | P High
+   1690 | P low
+   1691 | T high
+   1692 | T low
+   1695 | Atr Sens Thresh mV
+   1696 | Atr Stim Thresh mA
+   1697 | Atrial Pacemaker Sense [mV]
+   1698 | GI Tube #1 [Site]
+   1699 | GI Tube #2 [Site]
+   1700 | GI#3 Intub Site
+   1701 | GI Tube #3 [Status]
+   1702 | GI#3 tube PlaceCheck
+   1703 | Health Care Proxy
+   1704 | PA line cm Mark
+   1705 | Vent Sens Thresh mV
+   1706 | Ventricular Pacemaker Sense [mV]
+   1707 | Vent Stim Thresh mA
+   1720 | high exhale MV
+   1722 | Waffle boots
+   1734 | TOF
+   1735 | Multipodus boots
+   1737 | HI/Minute/vol
+   1738 | high/min/vent
+   1742 | QTC
+   1743 | bed alarm
+   1745 | Passey Muir valve
+   1746 | hi MV
+   1781 | BED ALARM
+   1811 | Mouth Care
+   1813 | Morphine Sulfate
+   1820 | alcohol bath
+   1821 | potassium phosphate
+   1822 | PASSE-MUIR VALVE
+   1853 | protonix mg/hr
+   1872 | Shave
+   1879 | xigris
+   1880 | Urine pH
+   1892 | BED BATH
+   1900 | MULTIPODIS BOOTS
+   1904 | Qtc
+   1910 | BAth
+   1955 | Xygris
+   1990 | High minute vent.
+   2000 | Inspiratory Time
+   2006 | high min volume
+   2015 | ATC ON
+   2022 | NIF
+   2029 | Xigris
+   2050 | Low MV
+   2053 | high VE
+   2056 | Nitric Oxide
+   2059 | Driving pressure
+   2062 | NO ppm
+   2063 | NO tank psi
+   2066 | atc
+   2072 | Pinsp
+   2074 | AV Fistula
+   2080 | high NO
+   2119 | Slope
+   2125 | slope
+   2129 | Driving Pressure
+   2131 | Nitric oxide
+   2139 | EDVI
+   2146 | edvi
+   2185 | CALCIUM GLUCONATE
+   2194 | SVO2
+   2224 | URINE CREAT
+   2225 | URINE NA
+   2226 | URINE OSMO
+   2307 | WAFFLE BOOTS
+   2359 | thrill/bruit
+   2368 | fem abp
+   2369 | fem map
+   2382 | Protonix gtt
+   2432 | insulin
+   2445 | Vasopressin
+   2455 | percussion
+   2466 | KCL
+   2509 | APROTONIN CC/HR
+   2565 | Bruit/Thrill
+   2570 | valproic acid
+   2585 | chest PT
+   2644 | pericare
+   2665 | NO
+   2669 | svo2
+   2699 | EF
+   2739 | FENOLDOPAM
+   2755 | XIGRIS CC/HR
+   2779 | bladder pressures
+   2783 | edv
+   2788 | ABD GIRTH
+   2792 | pr interval
+   2872 | abd binder
+   2921 | Delta P
+   2929 | sputum culture
+   2935 | P Low
+   2936 | T High
+   2937 | T Low
+   2976 | SHAVE
+   2993 | trache care
+   3014 | bath/shampoo
+   3031 | t high
+   3032 | t low
+   3033 | hair washed
+   3036 | P HIGH
+   3037 | THAM
+   3058 | shaved
+   3098 | hi mv
+   3109 | Sodium Bicarb
+   3114 | PCV Driving Pressure
+   3126 | SLOPE
+   3142 | high rr
+   3143 | low insp pressure
+   3176 | Nicardip.mcg/kg/min
+   3177 | left fem. aline
+   3178 | right femoral aline
+   3184 | Neo mcg/kg/min
+   3204 | Pinsp.
+   3209 | P LOW
+   3210 | pressure high
+   3211 | time high
+   3212 | time low
+   3213 | RT FEM ART LINE
+   3219 | calcium gluconate
+   3223 | Bedbath
+   3245 | ileostomy
+   3249 | BEDBATH
+   3250 | Nephrostomy tube
+   3257 | XIGRIS @ 1.66 MG/HR
+   3258 | d10w
+   3265 | ecmo flow
+   3269 | XIGRIS MG/HR
+   3271 | insp time
+   3281 | Xigres mg/hr
+   3288 | O2 sat [Pre]
+   3291 | Abdominal Appearance
+   3292 | Abdominal Color
+   3293 | Abdominal Exam
+   3294 | Abdominal Girth (cm)
+   3295 | Abdominal Loops
+   3296 | Abnormalities
+   3297 | Airleak
+   3298 | Albuterol MDI
+   3299 | Albuterol MiniNeb
+   3302 | Amphotericin
+   3303 | Ampicillin
+   3304 | Anterior Fontanelle [Texture]
+   3306 | Apnea [Existence]
+   3307 | Appearance
+   3309 | Atrovent MDI
+   3310 | Auditory Evokes
+   3311 | BP Alarm [Low]
+   3312 | BP Cuff [Mean]
+   3313 | BP Cuff [Systolic]
+   3314 | BP Left Arm [Mean]
+   3315 | BP Left Arm [Systolic]
+   3316 | BP Left Leg [Mean]
+   3317 | BP Left Leg [Systolic]
+   3318 | BP PAL [Mean]
+   3319 | BP PAL [Systolic]
+   3320 | BP Right Arm [Mean]
+   3321 | BP Right Arm [Systolic]
+   3322 | BP Right Leg [Mean]
+   3323 | BP Right Leg [Systolic]
+   3324 | BP UAC [Mean]
+   3325 | BP UAC [Systolic]
+   3326 | Babygram
+   3327 | Bag & Mask Present
+   3328 | Behavioral State
+   3329 | BehavioralIntervent
+   3330 | Bicitra
+   3333 | Blood Cultures
+   3335 | Boundaries
+   3336 | Breast Assessment
+   3337 | Breath Rate
+   3338 | Breath Sounds [L]
+   3339 | Breath Sounds [R]
+   3340 | Bruising [Existence]
+   3341 | CBC
+   3343 | CT Scan
+   3344 | CVL Dressing Change
+   3345 | CVP Alarm [Low]
+   3346 | Caffeine
+   3347 | Calcium Gluconate
+   3348 | Capillary Refill
+   3350 | Caput
+   3351 | Car Safety Seat Screen [Remark]
+   3352 | Cardiac Echo
+   3353 | Cardiac Murmur
+   3354 | Cardiac Rhythm
+   3356 | Cephalohematoma
+   3358 | Chest Appearance
+   3362 | Chest Tube Assessm't
+   3363 | Chest Tube Site 1
+   3364 | Chest Tube Site 2
+   3365 | Chest Tube Suction
+   3366 | Chest X-Ray
+   3367 | Circumcision
+   3369 | Clindamycin
+   3370 | Cobedding
+   3372 | [Color]
+   3373 | Color (Overall)
+   3374 | Color Change
+   3376 | Combivent
+   3377 | Combivent MDI
+   3378 | Consent for visitors
+   3380 | Cry
+   3381 | Cyclogyl
+   3382 | Cyclomydril
+   3383 | DTaP
+   3384 | Dad held infant
+   3385 | Dad in to visit
+   3386 | Day of Life
+   3388 | Decadron
+   3390 | Diamox
+   3391 | Direct Coombs
+   3392 | Directed Donor
+   3393 | Disease State
+   3394 | Diuril
+   3396 | ECG
+   3397 | EEG
+   3398 | ETT (Re)Taped
+   3399 | ETT Changed
+   3400 | ETT Size
+   3401 | ETT Sx Color
+   3402 | ETT Sx Quality
+   3403 | ETT Sx Quantity
+   3404 | ETT Taped at (cm)
+   3405 | Edema [Existence]
+   3407 | Enteral In for Calc.
+   3408 | Environment
+   3409 | Environmental Interv
+   3412 | Erythromycin Oint.
+   3414 | Excoriated
+   3416 | Eye Abnormalities
+   3417 | Eye Drainage [Left]
+   3418 | Eye Lids
+   3419 | Eye Shields
+   3420 | FIO2
+   3421 | FIO2 Alarm [Low]
+   3422 | FIO2 [Meas]
+   3423 | Family Meeting held
+   3424 | Family Mtg. Planned
+   3425 | FeSO4
+   3426 | Feeding
+   3427 | Feeding Tube Check
+   3428 | Feeding Tube Loc
+   3429 | Feeding Tube Size
+   3430 | Feeding Tube Type
+   3432 | Fentanyl
+   3433 | Fever
+   3436 | Flowrate (cc/min)
+   3437 | Flowrate (l/m)
+   3438 | Fluid In for Calc.
+   3439 | Furosemide/Lasix
+   3442 | Gastric Secretions
+   3444 | Genitalia
+   3445 | Gentamicin
+   3446 | Gestational Age
+   3447 | Glucose Monitor #
+   3448 | Grandparents Visit
+   3449 | Grasp
+   3450 | HR Alarm [Low]
+   3451 | Head Circ       (cm)
+   3452 | Head US
+   3453 | Head of Bed
+   3454 | Heptavax
+   3455 | Hernia [Left]
+   3456 | Hernia [Right]
+   3457 | Hertz
+   3458 | HiB Vaccine
+   3459 | High Pressure Relief
+   3460 | Humidity Temp [Meas]
+   3463 | Hydrocortisone
+   3465 | IV #1 [Location]
+   3466 | IV #2 [Location]
+   3467 | IV #3 [Location]
+   3468 | IV #4 [Location]
+   3469 | IV #5 [Location]
+   3471 | IV Site #5
+   3472 | Image Transmission
+   3474 | Indomethacin/Indocin
+   3475 | Infant ABO/Rh
+   3476 | Infant Position
+   3477 | Infant's Behavior
+   3479 | Intervention
+   3480 | InterventionAssess
+   3482 | KUB
+   3483 | Kangaroo Care [Time]
+   3484 | Latch On
+   3487 | Lesions
+   3488 | Lipid Change Q 12 hr
+   3492 | Lorazepam/Ativan
+   3494 | Lowest Heart Rate
+   3495 | Lowest SaO2
+   3496 | Lumbar Puncture
+   3497 | MAWP Alarm [Low]
+   3498 | MRI
+   3502 | Mean PAW
+   3503 | Mean PAW [Meas]
+   3504 | Midazolam/Versed
+   3509 | Mode
+   3510 | Molding
+   3511 | Mom held Infant
+   3512 | Mom in to Visit
+   3513 | Moro Reflex
+   3514 | Mottles
+   3516 | Multi-Vitamins
+   3517 | Murmur Description
+   3518 | Murmur Intensity
+   3519 | Muscle Tone
+   3520 | Muscular Abnormality
+   3521 | Myoclonic Jerks
+   3522 | NG Feedings
+   3523 | NG Tube Taped at:
+   3524 | NGT Placement
+   3525 | NICU Procedures
+   3528 | Na Bicarbonate
+   3530 | Narcotic Analgesic
+   3531 | Nares Patent [Left]
+   3532 | Nasal Congestion
+   3536 | Nasal Sx Color
+   3537 | Nasal Sx Quality
+   3538 | Nasal Sx Quantity
+   3539 | Neonatal Opium Solut
+   3540 | Nipple Type
+   3543 | O2 Administration
+   3544 | O2 Analyzer Cal
+   3545 | O2 Sat W/Seizure
+   3546 | O2 Tubing Present
+   3547 | OG/NG Residual
+   3549 | Oral Sx Color
+   3550 | Oral Sx Quality
+   3551 | Oral Sx Quantity
+   3553 | Ostomy Bag Change
+   3554 | Oxacillin
+   3555 | PEEP Alarm
+   3556 | PIP Alarm
+   3557 | PMI
+   3559 | Pain
+   3563 | Parent Called
+   3564 | Parent Ed/Support
+   3565 | Parent Info given
+   3566 | Parents in to visit
+   3567 | Pavulon
+   3568 | Peripheral Pulses
+   3569 | Phototherapy Blanket
+   3570 | Phototherapy Light
+   3572 | Physioregulation
+   3573 | Polio Vaccine
+   3576 | Position at Breast
+   3577 | Posterior Fontanelle [Texture]
+   3578 | Potassium Chloride
+   3579 | Precordium
+   3580 | Present Weight  (kg)
+   3581 | Present Weight  (lb)
+   3582 | Present Weight  (oz)
+   3583 | Previous Weight (kg)
+   3584 | Prevnar
+   3591 | Prong Size
+   3592 | Prongs Changed
+   3594 | Racemic Epi MiniNeb
+   3595 | Recombivax
+   3596 | Reglan
+   3598 | Related Activity
+   3599 | Remote Alarm [S]
+   3600 | Renal US
+   3601 | Replogle Irrigation
+   3603 | Resp Rate
+   3605 | Respiratory Support
+   3606 | Response To Stimuli
+   3607 | Retractions
+   3609 | SaO2 Alarm [Low]
+   3611 | Sedation
+   3612 | Seizure [Activity]
+   3614 | Sensitivity
+   3615 | Sheepskin
+   3616 | Skeletal Abnormality
+   3617 | Skin Integrity [Attribute #1]
+   3618 | Sleep
+   3622 | Sneezing
+   3624 | Sodium Chloride
+   3625 | Source
+   3626 | Spits
+   3627 | State
+   3628 | State Screen Sample
+   3630 | Stimulation
+   3631 | Stool Hemoccult
+   3632 | Stool [Amount]
+   3633 | Stools
+   3634 | Stress
+   3637 | Suck
+   3638 | Suck Reflex
+   3639 | Sucking
+   3640 | Surgical Procedures
+   3641 | Survanta
+   3642 | Sutures
+   3643 | Swallow Study
+   3644 | Sweating
+   3645 | Sx Equip Functional
+   3646 | Synagis
+   3647 | TCP02
+   3651 | TcO2 [Value]
+   3652 | Temp Axillary [F]
+   3654 | Temp Rectal [F]
+   3655 | Temp Skin [C]
+   3656 | Temp/Iso/Warmer [Type]
+   3657 | Terminal Sensitivity
+   3658 | Testes [Left]
+   3660 | Time at Breast
+   3661 | Tone
+   3663 | Total Enteral/kg/day
+   3664 | Total Fluids cc/kg/d
+   3665 | Total Fluids/kg/day
+   3666 | Transducer Calibrate
+   3667 | Transfusion Consent
+   3668 | Tremors
+   3669 | Turgor
+   3670 | UAC Tubing Change
+   3671 | UVC Tubing Change
+   3672 | Umbical Cord
+   3673 | Upper GI
+   3676 | VS Change W/Seizure
+   3679 | Vancomycin
+   3681 | Ventilator Number
+   3683 | Vital Sign
+   3684 | Vitamin E
+   3685 | Vitamin K
+   3686 | Void
+   3687 | Vomiting
+   3688 | Vt [Spontaneous]
+   3689 | Vt [Ventilator]
+   3690 | Water Pillow
+   3692 | Weight Change  (gms)
+   3693 | Weight Kg
+   3694 | Work of Breathing
+   3695 | Yawning
+   3723 | Birth Weight    (kg)
+   3724 | ABG CHLOIRDE
+   3725 | ABG POTASSIUM
+   3726 | ABG SODIUM
+   3727 | Albumin  (3.9-4.8)
+   3728 | Alkaline Phosphatase
+   3732 | Anion Gap   (8-20)
+   3734 | BANDS
+   3735 | BASOs
+   3736 | BE
+   3737 | BUN    (6-20)
+   3738 | Bands
+   3740 | Base Excess (other)
+   3742 | Basos
+   3744 | Blood Glucose
+   3745 | BloodGlucose
+   3746 | Calcium   (8.8-10.8)
+   3747 | Chloride  (100-112)
+   3750 | Creatinine   (0-0.7)
+   3751 | Digoxin  (1-2ng/ml)
+   3754 | Eosinophils
+   3755 | FIBRINOGEN
+   3756 | Gentamicin Post 5-10
+   3757 | Gentamicin Pre (0-2)
+   3759 | HGB  (10.8-15.8)
+   3761 | Hematocrit (35-51)
+   3765 | Indirect Bili(0-1.0)
+   3766 | Ion Calcium
+   3768 | LYMPHS
+   3770 | Lymphs
+   3771 | MONOs
+   3773 | Mix Venous CO2(calc)
+   3774 | Mix Venous PCO2
+   3775 | Mix Venous PO2
+   3776 | Mix Venous Sat
+   3777 | Mix Venous pH
+   3779 | Monos
+   3780 | NEUTS
+   3784 | PCO2
+   3785 | PO2
+   3786 | Phenobarbitol(15-40)
+   3788 | Phenytoin  (10-20)
+   3789 | Platelet  (150-440)
+   3791 | Polys
+   3792 | Potassium  (3.5-5.3)
+   3793 | ProTime
+   3796 | Ptt
+   3799 | Red Blood C(3.6-6.2)
+   3801 | SGOT
+   3802 | SGPT
+   3803 | Sodium  (135-148)
+   3807 | T. Protein (5-7.5)
+   3808 | TCO2        (21-30)
+   3809 | TCO2 (other)
+   3810 | Total CO2
+   3811 | Triglyceride (0-250)
+   3816 | Urine Glucose
+   3817 | Urine Heme
+   3818 | Urine Ketones
+   3819 | Urine Leukocytes
+   3822 | Urine Protein
+   3827 | Vancomycin Post
+   3828 | Vancomycin Pre
+   3829 | Venous Base Excess
+   3830 | Venous CO2
+   3831 | Venous O2
+   3832 | Venous TCO2
+   3834 | WhiteBloodC 4.0-11.0
+   3835 | pCO2
+   3836 | pCO2 (other)
+   3837 | pO2
+   3838 | pO2 (other)
+   3839 | ph (other)
+   4169 | EDC
+   4171 | Time
+   4175 | Admit Reason
+   4180 | Current Level
+   4181 | Highest Level
+   4183 | Birthweight (kg)
+   4184 | Apgar      1 min
+   4185 | 5 min
+   4186 | 10 min
+   4187 | Length Calc Inches
+   4188 | Length in cm
+   4189 | Sucrose
+   4193 | ABG Chloride
+   4194 | ABG Potassium
+   4195 | ABG Sodium
+   4196 | Base Excess (cap)
+   4197 | RBC(3.6-6.2)
+   4199 | TCO2 (cap)
+   4200 | WBC 4.0-11.0
+   4201 | pCO2 (cap)
+   4202 | pH (cap)
+   4203 | pO2 (cap)
+   4209 | eye exam
+   4210 | Glycerine Suppos.
+   4212 | HEPARIN FLUSH
+   4215 | cefotaxime
+   4217 | Hep Flush
+   4219 | Lasix
+   4220 | ceftazidime
+   4223 | Bacitracin ointment
+   4225 | Heparin flush
+   4227 | lytes
+   4230 | Eye exam
+   4235 | Aquaphor
+   4237 | Glycerin supp
+   4238 | Eye Exam
+   4239 | Caffeine bolus
+   4240 | glycerine
+   4243 | glycerin supp
+   4246 | Combivent puffs
+   4249 | IPV
+   4251 | glycerine supp
+   4252 | Acyclovir
+   4256 | Cefotaxime
+   4262 | Neuro consult
+   4267 | heparin flush
+   4271 | Prune juice
+   4272 | Ranitidine
+   4273 | Zantac
+   4278 | Caffeine Bolus
+   4279 | Hep flush
+   4289 | Baptism
+   4291 | Fosphenytoin
+   4296 | Glycerin supp.
+   4299 | Glycerin
+   4310 | combivent
+   4311 | glycerin
+   4315 | Gent
+   4320 | hearing screen
+   4321 | Glycerine
+   4326 | Hep B Vaccine
+   4334 | aquaphor
+   4340 | Hep B vaccine
+   4342 | Rash
+   4349 | Chloral Hydrate
+   4350 | PKU
+   4353 | hep flush
+   4354 | Bili level
+   4355 | circ care
+   4362 | Prune Juice
+   4370 | Circ site
+   4372 | Desitin
+   4377 | circumcision
+   4381 | Potassium Phosphate
+   4383 | Aldactone
+   4385 | metoclopramide
+   4386 | ranitidine
+   4388 | EYE EXAM
+   4389 | Nystatin powder
+   4390 | Nystatin Cream
+   4391 | gentamycin
+   4410 | umbilical hernia
+   4412 | caffeine bolus
+   4414 | cyclopentolate 1%
+   4415 | Ceftazidime
+   4419 | Hep B
+   4426 | Cefazolin
+   4437 | Bathed
+   4449 | Cardiac consult
+   4459 | trach collar
+   4461 | COMBIVENT
+   4462 | Flovent
+   4467 | hep b
+   4472 | Hep B immunization
+   4475 | Insulin
+   4476 | PICC line placement
+   4478 | triple antibiotic
+   4480 | zantac
+   4490 | NAS Score
+   4504 | Heparin Flush
+   4511 | Amoxicillin
+   4514 | Chromosomes
+   4520 | Tobradex opthalmic
+   4523 | PDA incision site
+   4525 | Glycerin suppository
+   4527 | heparin
+   4532 | Indomethacin
+   4534 | Circ Site
+   4538 | amoxicillin
+   4539 | Nystatin
+   4540 | Simethicone
+   4542 | Tobradex
+   4543 | UMBI HERNIA
+   4544 | Glycerine Supp.
+   4545 | CPR
+   4548 | nystatin ointment
+   4549 | criticaid
+   4556 | Hearing Screen
+   4564 | Nystatin oral
+   4568 | circ site
+   4585 | circ
+   4587 | Meropenem
+   4588 | trach aspirate
+   4590 | zosyn
+   4595 | Criticaid
+   4597 | Abdominal US
+   4599 | Hepatitis B Vaccine
+   4603 | Trach/Size
+   4605 | bath demo
+   4606 | hernia
+   4617 | Neurology consult
+   4619 | Nystatin Powder
+   4622 | miconazole powder
+   4625 | Nystatin ointment
+   4632 | Glycerin Supp
+   4641 | desitin
+   4645 | PRED FORTE DROPS
+   4648 | chloral hydrate
+   4650 | Umbilical Hernia
+   4652 | Hernia Repair
+   4654 | Hepatitis B vaccine
+   4669 | Cardiology consult
+   4670 | heprin lock
+   4676 | Critic-aid
+   4677 | nystatin powder
+   4701 | Stoma
+   4702 | Vit D
+   4707 | Circ
+   4713 | Heplock flush
+   4715 | penicillin
+   4716 | acyclovir
+   4719 | Ca Glubionate
+   4729 | Miconazole powder
+   4732 | Keflex
+   4739 | prune juice
+   4743 | Circumcision Site
+   4753 | pH (Art)
+   4761 | ORL consult
+   4762 | Penicillin
+   4769 | rash
+   4773 | Poly-Vi-Sol
+   4783 | picc placement
+   4788 | aldactone
+   4791 | Circ Care
+   4792 | bacitracin
+   4793 | nystatin cream
+   4797 | Nystatin Oint
+   4799 | synthroid
+   4801 | Bath+Shampoo
+   4806 | Gentamycin
+   4810 | Prilosec
+   4812 | Bacitracin
+   4813 | nutrition labs
+   4820 | HEP FLUSH
+   4840 | desitin cream
+   4843 | calciferol
+   4844 | Nystatin Ointment
+   4850 | diaper rash
+   4865 | Clonus
+   4867 | Trivisol
+   4870 | tooth buds
+   4871 | vit d
+   4875 | cyclopentolate
+   4888 | lasix
+   4889 | Cyclopentolate
+   4900 | Oral Nystatin
+   4902 | neuro consult
+   4905 | Fluconazole
+   4910 | glycerin supp.
+   4911 | hep B vaccine
+   4918 | hep b vaccine
+   4925 | Amoxicillan
+   4929 | Prednisolone
+   4941 | Genetics Consult
+   4947 | Nystatin cream
+   4950 | Dexamethasone drops
+   4951 | Diaper rash
+   4952 | Bactroban
+   4953 | sucrose pacifier
+   4956 | Umbi hernia
+   4957 | Atropine drops
+   4966 | GI consult
+   4970 | NS bolus
+   4972 | erythromycin
+   4986 | Vi-Daylin
+   4994 | ECHO
+   5003 | prednisolone
+   5012 | glycerin suppository
+   5017 | Vidaylin
+   5020 | Cyclopentalate
+   5024 | triple abx ointment
+   5032 | bili
+   5035 | Glycerin Suppository
+   5039 | dressing.
+   5040 | scrotum
+   5048 | trivisol
+   5051 | CAFFEINE BOLUS
+   5066 | Epogen
+   5080 | K phos
+   5086 | ceftazadime
+   5098 | KCl Supps
+   5099 | NaCl Supps
+   5106 | caffeine citrate
+   5113 | Calciferol
+   5115 | bactroban
+   5153 | Ceftazadime
+   5157 | Ambisome
+   5186 | Kphos
+   5189 | Sodium supps
+   5194 | Metoclopromide
+   5195 | potassium phosphorus
+   5200 | triple abx cream
+   5210 | Atropine eye oint.
+   5212 | tobra dex eye ointmt
+   5218 | Heparin/PIC flush
+   5220 | Na Supps
+   5226 | Cough
+   5229 | NACL SUPPS
+   5244 | Left lateral decub
+   5245 | Repogyle
+   5248 | glycerine suppos.
+   5258 | calcium glubionate
+   5259 | ABD INC LINE
+   5260 | BROVIAC DSG
+   5261 | Fentanyl Bolus
+   5262 | Lytes
+   5263 | STOMA
+   5281 | oral nystatin
+   5289 | cefotaxine
+   5293 | Aquafor
+   5301 | 180 degree rotation
+   5309 | 180 degree turn
+   5321 | ns bolus
+   5325 | Hernia
+   5340 | Glycerine supp
+   5346 | atropine drops
+   5347 | tobradex oint
+   5361 | Combivent Puffs
+   5384 | OP site
+   5391 | ligation incision
+   5394 | stoma
+   5396 | ferrous sulfate
+   5401 | Gentamycin gtts OU
+   5404 | CAFFEINE LOAD
+   5431 | CBG
+   5434 | lytes,bili
+   5435 | mupirocin ointment
+   5439 | Miconazole pwdr
+   5461 | phenylephrine drops
+   5464 | Fentanyl bolus
+   5470 | Pneumogram
+   5473 | op. site
+   5478 | Gentamycin oint
+   5485 | Vit A
+   5492 | Vitamin A
+   5500 | vit a
+   5515 | Na supps
+   5523 | Amoxacillin
+   5527 | Bacitracin nose oint
+   5528 | Dexamethasone nasal
+   5575 | Tank pressure
+   5576 | Ti
+   5579 | Nitric [PSIG]
+   5581 | T-Low
+   5582 | p-high
+   5584 | t-high
+   5592 | MMV rate
+   5593 | MMV tidal volume
+   5603 | Tri Vi Sol
+   5605 | Miconazole Powder
+   5612 | Dexamethasone gtts
+   5617 | vitamin a
+   5620 | Abd US
+   5621 | DSD
+   5625 | Pinps
+   5629 | csm to right hand
+   5630 | DRIVING PRESSURE
+   5647 | trembling
+   5648 | multi-podis boots
+   5650 | WASH ABD--HIBICLENS
+   5664 | CHOLEY TUBE
+   5665 | CHOLEY TUBE DRAINAGE
+   5677 | scrotal ultrasound
+   5683 | Hourly PFR
+   5706 | T HIGH
+   5707 | T LOW
+   5714 | CPM MACHINE
+   5718 | PIC
+   5727 | Hi MV
+   5729 | bair hugger
+   5753 | Calcium Chloride
+   5755 | Time Disconnect
+   5756 | PINPS
+   5764 | driving press
+   5777 | Cyclomydril eye drop
+   5782 | High Minute Ventilan
+   5787 | t-tube
+   5788 | LLE Cast care
+   5805 | DOPAMINE MICS/KG/MIN
+   5806 | 180 DEGREE TURN
+   5807 | color of toes
+   5808 | Zygris
+   5813 | ABP Alarm [Low]
+   5814 | CVP Alarm [Low]
+   5815 | HR Alarm [Low]
+   5816 | ICP Alarm [Low]
+   5817 | NBP Alarm [Low]
+   5818 | PAP Alarm [Low]
+   5819 | Resp Alarm [Low]
+   5820 | SpO2 Alarm [Low]
+   5822 | Auqafor
+   5823 | Bed Percussion
+   5824 | HiMV
+   5826 | CBC and blood cx
+   5828 | Multipodus Boots
+   5832 | DRIVING PRSSR
+   5846 | rigors
+   5854 | fem aline
+   5864 | ostomy
+   5885 | Lytes,ABG,Bili
+   5889 | Bladder cath
+   5896 | VEN0US O2 SAT
+   5899 | Triple Antibx Oint
+   5904 | 02 Tubing Present
+   5905 | Alarms Checked
+   5906 | Analgesic
+   5907 | Bag and Mask Present
+   5908 | Feeding Label Match
+   5909 | ID band(s) on
+   5911 | L&D bands(s) on
+   5912 | Sx Equip Functioning
+   5913 | Tolerated new med?
+   5914 | zz Equip Functioning
+   5916 | zz tubing present
+   5919 | zzg and Mask Present
+   5923 | GI #2 guiac
+   5933 | Triple Abx ointment
+   5944 | I-Time
+   5948 | Heb B
+   5949 | ivp
+   5950 | NO PPM
+   5952 | nitric oxide
+   5957 | Cyclopentolate 1%
+   5965 | Vitamin A injections
+   5969 | IV infiltrate
+   5973 | R hand infiltrate
+   5991 | CVL
+   5997 | HEPA FILTER
+   6002 | Desitin prn
+   6006 | peripad
+   6008 | SPUTUM INDUCTION
+   6010 | P-Lo
+   6012 | T-Hi
+   6013 | T-Lo
+   6014 | PHENYFREE (1.0-2.0)
+   6015 | Triple abx.
+   6018 | PIC line placed
+   6028 | abdominal girth
+   6033 | wound care
+   6035 | Urinalysis sent
+   6038 | Pediarix vaccine
+   6049 | pediarix
+   6050 | Pediarix Vaccination
+   6051 | Pediarix
+   6055 | Peg Care
+   6062 | J-tube
+   6064 | ORL Exam
+   6068 | dtap-hepb-ipv comb.
+   6081 | straight cath
+   6094 | line placement
+   6095 | INO
+   6103 | vit A
+   6104 | Chromosomal study
+   6110 | xygris
+   6117 | wound drsg changes
+   6119 | caffeine load
+   6121 | Miconazole
+   6137 | PEG site
+   6149 | PeCO2
+   6150 | GT care
+   6154 | pnuemogram
+   6157 | Hep Flush 10u/cc
+   6158 | Lytes,Trig,Bili
+   6165 | LYTES AND BILI
+   6180 | Lacrilube
+   6184 | remote alarm
+   6198 | CAP GAS
+   6199 | L. lower abd. kidney
+   6201 | cephalexin
+   6204 | urine for CMV
+   6206 | Tank A psi.
+   6207 | Tank B psi.
+   6208 | Ve High
+   6213 | TANK A
+   6215 | TANK B
+   6221 | tank A
+   6222 | tank B
+   6225 | Caffeine load
+   6226 | urine for AA
+   6235 | Circumsion
+   6245 | Surgury
+   6252 | Abdominal U/S
+   6255 | VAsopressin 0.04   s
+   6259 | Tank Pressure (NO)
+   6260 | R fem Art line
+   6261 | Vanco level
+   6262 | Hep Flush 10UNITS/CC
+   6263 | J tube port
+   6264 | high NO alarm
+   6265 | high NO2 alarm
+   6266 | Low NO alarm
+   6267 | NO2
+   6268 | drive pr
+   6278 | fingerstick
+   6280 | flovent
+   6282 | Bed Rotation
+   6283 | Nitric Tank Pressure
+   6284 | Merepenum
+   6285 | right nephrost irrig
+   6291 | NITRIC TANK PRESSURE
+   6292 | APRV HIGH
+   6293 | APRV LOW
+   6296 | spironolactone
+   6299 | sodium bicarb
+   6306 | Sclera
+   6307 | Scleral jaundice
+   6308 | TEDS
+   6311 | heparin lock flush
+   6316 | vac canister change
+   6317 | iv diuril
+   6326 | Bair hugger
+   6330 | Bed rotation
+   6333 | bed rotation
+   6334 | meropnem
+   6336 | PCV driving pressure
+   6337 | PICC line site
+   6339 | PRESSURE SUPPORT
+   6344 | CUFF PRESS.
+   6346 | Cuff Pressure
+   6351 | Train of Four
+   6363 | EDM CI
+   6364 | EDM CO
+   6366 | P HI
+   6368 | T HI
+   6369 | T LO
+   6375 | Trache care
+   6378 | ViDaylin
+   6381 | Zosyn
+   6384 | PINSP
+   6395 | Phenylephrine gtts
+   6396 | Prednisolone gtts
+   6408 | Multi podis boots
+   6410 | Auto Rotation
+   6417 | low pressure
+   6420 | PERICARE
+   6422 | Xigris  mg/hour
+   6434 | RSBI
+   6443 | AMONIA
+   6448 | P Lo
+   6451 | Phigh
+   6453 | Plow
+   6454 | Thigh
+   6469 | nephostomy
+   6471 | Edema
+   6485 | sacral wound
+   6486 | SvO2 MVG
+   6489 | auto-peep
+   6509 | VITAMIN A
+   6510 | VIT A
+   6512 | Phenylephrine gtt
+   6513 | Prednsolone gtt
+   6533 | Coccyx WTD Dressing
+   6536 | Erythromycin
+   6538 | tpn
+   6556 | Prednisolone drops
+   6562 | diuril
+   6582 | left femerol artery
+   6603 | INAMRINONE MCG/KG/MN
+   6607 | Vitamin A IM
+   6610 | rifampin
+   6612 | flowvent MDI
+   6621 | ROTATION
+   6622 | hernia repair site
+   6627 | linen change
+   6631 | pressure low
+   6632 | head circumference
+   6640 | 35 QVar
+   6644 | QVar
+   6645 | pmv
+   6650 | DSD on head
+   6651 | ca gluc ml/hr
+   6655 | PCV Level
+   6656 | PHigh
+   6657 | DP
+   6663 | Artificial tears
+   6669 | APRV Phi
+   6670 | APRV Plo
+   6671 | APRV T hi
+   6672 | APRV T lo
+   6690 | phenylephrine gtts
+   6701 | Arterial BP #2 [Systolic]
+   6702 | Arterial BP Mean #2
+   6741 | pantoprazole mgm/hr
+   6753 | Prednisilone gtts
+   6754 | urine PH
+   6762 | Incision sites
+   6764 | pupil deviation
+   6766 | foley change
+   6782 | nephrostomy
+   6784 | Vitamin A injection
+   6812 | myconazole
+   6815 | Critacaid
+   6820 | SSI HumR #units
+   6828 | Q1H EEG TRACE
+   6838 | left ankle drsg ch
+   6848 | hernia/drsng
+   6851 | Rotation
+   6859 | Insp press mius PEEP
+   6860 | SVO2-Presep. cath.
+   6861 | RAP
+   6872 | intrathecal catheter
+   6873 | low MV
+   6875 | CPAP AMT
+   6885 | R chest dsg
+   6893 | Vitamin A INJ
+   6895 | hepatic drain
+   6896 | Rapamycin
+   6908 | Triple ant. ointment
+   6924 | MEASURED PEEP
+   6938 | ligation site
+   6939 | LUE AV fistula
+   6943 | LOW PEEP
+   6944 | LOW PRESSURE
+   6945 | LOW VT
+   6968 | urostomy
+   6975 | Unasyn
+   6982 | Bed bath/shaved
+   7004 | mulitpodus boots
+   7020 | P-HI (APRV)
+   7021 | P-LO (APRV)
+   7022 | T-HI (APRV)
+   7023 | T-LO (APRV)
+   7025 | PTPEXP
+   7026 | PTPinsp
+   7027 | vacuum
+   7029 | Trip Antibiotic Oint
+   7031 | multi podis boot
+   7033 | octreotide
+   7043 | LUA AV fistula
+   7044 | tof
+   7052 | Vit. A
+   7058 | Vapotherm
+   7061 | left nephrostomy
+   7063 | VENOUS SAT
+   7073 | Cannula Size
+   7074 | NeoBlue Bank
+   7075 | NeoBlue Mini
+   7076 | Prong Type
+   7078 | Ranitidine/Zantac
+   7085 | driving pr
+   7094 | low IP
+   7095 | Shaved
+   7108 | surgical bra
+   7111 | papaperine
+   7112 | PAPAVERINE MG/HR
+   7114 | Ostomy bag
+   7118 | Trache
+   7120 | OGT Sugar level
+   7121 | TUBE feed sugar levl
+   7123 | Nares Care
+   7133 | abd pressure
+   7138 | umb hernia
+   7151 | HOB Measurement
+   7161 | P-Hi
+   7179 | right leg drsg
+   7209 | COUGH/DEEP BREATHING
+   7210 | Phenylephrine nose s
+   7211 | Atropine opth. oint
+   7214 | prednisolone nosedrp
+   7219 | skin laceration
+   7220 | X-Ray
+   7226 | THigh
+   7229 | low Vt
+   7232 | Peakflow
+   7234 | t-low
+   7259 | Triple Abx Ointment
+   7260 | venous 02sat
+   7277 | Isoproterenol
+   7281 | Cooling Blanket
+   7287 | pigtail dsg change
+   7288 | Acapella (PEP)
+   7294 | BNP
+   7300 | hairwashed
+   7319 | bil leg drsgs
+   7332 | pressure support
+   7345 | D5 1/2ns w/20meq kcl
+   7349 | Dexamethasone
+   7351 | residual
+   7353 | P.high
+   7354 | P.low
+   7355 | T. high
+   7356 | T. low
+   7361 | SV02
+   7362 | oxacillin
+   7375 | other
+   7379 | TLSO brace
+   7383 | Actigal
+   7385 | bivona trach measure
+   7391 | Rotation On/Off
+   7400 | Antibiotic ointment
+   7409 | Atropine Gtts
+   7414 | Triple abx ointment
+   7422 | aqua tears
+   7431 | Goldline Baby Vits
+   7443 | Bed Rotation.
+   7449 | ECMO flow
+   7453 | bear hugger
+   7454 | Driving P
+   7469 | Methylprednisolone
+   7482 | irrigate pericardial
+   7485 | Maintainence IVF
+   7488 | Rotation On
+   7493 | t-Hi
+   7515 | Umbi
+   7516 | t discon
+   7524 | aprv phigh
+   7528 | TRACH MARK
+   7534 | Intrinsic peep
+   7544 | evd
+   7546 | bactroban oint.
+   7547 | Ostomy appliance
+   7571 | QTC measurement
+   7579 | rotation mode on   d
+   7587 | PS
+   7595 | PSV
+   7599 | nasal septum
+   7601 | rotation on
+   7626 | mitts
+   7632 | NO Tank Pressure
+   7645 | Central line SVO2
+   7652 | bath care
+   7663 | ABDO BINDER
+   7672 | Foley
+   7683 | criticaid ointment
+   7687 | ileal conduit
+   7688 | Nasal irrigant
+   7692 | Bivona mark
+   7717 | peripheral sat
+   7730 | RT AV thrill/bruit
+   7737 | Bivona positin 10
+   7762 | autorotation
+   7771 | AUTO-ROTATION
+   7773 | D50 amp bolus
+   7777 | Ptp Exp.
+   7778 | Ptp Insp.
+   7790 | combivent puffs
+   7809 | Bumetandime mg/hr
+   7815 | L Leg Wound
+   7816 | R Leg Wound
+   7818 | Chest Dressing
+   7822 | genta irrig cc/hr
+   7826 | IVPPI
+   7841 | Combivent Puff
+   7847 | SVR/PVR ratio
+   7853 | Triple Antibiotic
+   7858 | gent opthalmic
+   7896 | teeth brushed
+   7901 | T Disconnect
+   7903 | Exercises
+   7908 | T-disconnect
+   7914 | Insulin Guideline
+   7915 | Pt./Family Informed
+   7921 | Brush Teeth
+   7924 | Bacitracin oint.
+   7953 | Right groin
+   7961 | T-DISCONNECT
+   7983 | Hydrocele
+   7988 | Inhaled Nitric Oxide
+   7998 | Versed mg/kg/hr
+   8019 | cefixime
+   8021 | AutoRotation
+   8031 | KETAMINE 200mgm/50ML
+   8035 | MultiPodus Boot
+   8037 | Ketamine 100mg/50ml
+   8042 | Immodium
+   8048 | C.O.
+   8053 | SIGH PEEP LEVEL
+   8058 | bed percussion
+   8059 | TANK PRES NO
+   8060 | High NO2
+   8061 | low NO
+   8067 | HIGH NO2
+   8070 | dexamethasone gtts
+   8083 | proning via bed.
+   8087 | sigh rate
+   8099 | dPaw
+   8100 | dPes
+   8101 | esoph press
+   8120 | JP DRAIN
+   8133 | R ear
+   8147 | broviac
+   8148 | Zidovudine/AZT
+   8152 | T.disconnect
+   8157 | 3x antibiotic oint
+   8170 | trach postion/stoma
+   8183 | trach mark location
+   8197 | Triple AB ointment
+   8233 | multi drsg changes
+   8240 | MICONAZOLE POWDER
+   8247 | ACE WRAP
+   8253 | Atropine 1% eye drop
+   8258 | Ursodeoxycholic Acid
+   8259 | omerprazole
+   8273 | amoxacillin
+   8276 | critcaid ointment
+   8279 | Prednisolone Drops
+   8289 | Mucomyst       mg/hr
+   8309 | prednisolone gtts
+   8317 | percusion
+   8331 | Diazoxide
+   8345 | Sigh peep level
+   8357 | Sigh Peep
+   8360 | Trans pul exp.
+   8361 | Trans pul insp
+   8362 | ABI Ankle BP [Left]
+   8363 | ABI Brachial BP [Left]
+   8364 | ABP [Diastolic]
+   8365 | Angio Appearance #1 [Attribute 2]
+   8366 | Angio Appearance #2 [Attribute 2]
+   8367 | Anti-Embolism [Status]
+   8368 | Arterial BP [Diastolic]
+   8369 | Atrial Pacemaker [Capture]
+   8371 | Atrial Pacemaker [Sensitivity]
+   8372 | Brachial Pulse [Left]
+   8373 | CT #1 [Leak]
+   8374 | CT #2 [Leak]
+   8375 | CT #3 [Leak]
+   8376 | CT #4 [Leak]
+   8377 | Capillary Refill [Left]
+   8378 | Chest PT [Left]
+   8379 | Cooling [Status]
+   8380 | Corneal Reflex [Left]
+   8381 | Dorsal PedPulse [Left]
+   8382 | ETT [Location]
+   8383 | Edema #1 [Amount]
+   8384 | Edema #2 [Amount]
+   8385 | Emesis [pH]
+   8386 | Femoral Pulse [Left]
+   8387 | GI [pH]
+   8388 | GI Intub #1 [Site]
+   8389 | GI Intub #2 [Site]
+   8390 | GI#1 Tube [Drain]
+   8391 | GI#2 Tube [Drain]
+   8392 | INV Line#1 [Site]
+   8393 | INV Line#2 [Site]
+   8394 | INV Line#3 [Site]
+   8395 | INV Line#4 [Site]
+   8396 | INV Line#5 [Site]
+   8397 | INV Line#6 [Site]
+   8398 | INV Line#7 [Site]
+   8399 | INV Line#8 [Site]
+   8400 | IV #1 [Size]
+   8401 | IV #2 [Size]
+   8402 | IV #3 [Size]
+   8403 | IV #4 [Size]
+   8404 | ImpSkin #3 [Amount]
+   8405 | ImpSkin #6 [Amount]
+   8406 | ImpSkin #1 [Amount]
+   8407 | ImpSkin #2 [Amount]
+   8408 | ImpSkin #4 [Amount]
+   8409 | ImpSkin #5 [Amount]
+   8410 | ImpSkin #1 [Length]
+   8411 | ImpSkin #2 [Length]
+   8412 | ImpSkin #3 [Length]
+   8413 | ImpSkin #4 [Length]
+   8414 | ImpSkin #5 [Length]
+   8415 | ImpSkin #6 [Length]
+   8416 | Inc #1 [Appearance]
+   8417 | Inc #2 [Appearance]
+   8418 | Inc #3 [Appearance]
+   8419 | Inc #4 [Appearance]
+   8420 | Inc #5 [Appearance]
+   8421 | Inc #6 [Appearance]
+   8422 | Inc #1 [Amount]
+   8423 | Inc #2 [Amount]
+   8424 | Inc #3 [Amount]
+   8425 | Inc #4 [Amount]
+   8426 | Inc #5 [Amount]
+   8427 | Inc #6 [Amount]
+   8428 | Inc #1 [Status]
+   8429 | Inc #2 [Status]
+   8430 | Inc #3 [Status]
+   8431 | Inc #5 [Status]
+   8432 | Inc #6 [Status]
+   8433 | Inc #4 [Status]
+   8434 | KneeImmobilizeLoc [Left]
+   8435 | LLE [Color]
+   8436 | LUE [Color]
+   8437 | MDI #1 [Drug]
+   8438 | MDI #2 [Drug]
+   8439 | MDI #3 [Drug]
+   8440 | Manual BP [Diastolic]
+   8441 | NBP [Diastolic]
+   8442 | Nares [Left]
+   8443 | Neuro Drain [Location]
+   8444 | Orthostat BP sitting [Diastolic]
+   8445 | OrthostatBP standing [Diastolic]
+   8446 | Orthostatic BP lying [Diastolic]
+   8447 | Ostomy [Appearance]
+   8448 | PAP [Diastolic]
+   8449 | Patient controlled analgesia (PCA) [Attempt]
+   8450 | PT Splint #1 [Status]
+   8451 | PT Splint #2 [Status]
+   8452 | PT Splint #3 [Status]
+   8453 | PT Splint #4 [Status]
+   8454 | Pain Management [Route/Status #2]
+   8455 | Popliteal Pulse [Left]
+   8456 | PostTib. Pulses [Left]
+   8457 | Pressure Sore #1 [Heal]
+   8458 | Pressure Sore #2 [Heal]
+   8459 | Pressure Sore #3 [Heal]
+   8460 | Pressure Sore #1 [Amount]
+   8461 | Pressure Sore #2 [Amount]
+   8462 | Pressure Sore #3 [Amount]
+   8463 | Pressure Sore #1 [Length]
+   8464 | Pressure Sore #2 [Length]
+   8465 | Pressure Sore #3 [Length]
+   8466 | Pupil Response [Left]
+   8467 | Pupil Size [Left]
+   8468 | RLE [Color]
+   8469 | LLE [Sensation]
+   8470 | ROM [Value]
+   8471 | RUE [Color]
+   8472 | LUE [Sensation]
+   8473 | Radial Pulse [Left]
+   8474 | Responds to Stimuli [Value]
+   8475 | Skin Condition
+   8476 | Sputum Consistency
+   8477 | Sputum [Amount]
+   8478 | Stool [Consistency]
+   8479 | Trach [Fenestra]
+   8480 | Urine [Appearance]
+   8481 | VAD Beat Rate [Left]
+   8482 | Ventricular Pacemaker [Capture]
+   8484 | Ventricular Pacemaker [Sensitivity]
+   8485 | Warming [Status]
+   8486 | Initials (2 RNs) [RN #2]
+   8487 | Med Wasted [Amount]
+   8488 | GI Prophylaxis [Drug #2]
+   8489 | Ulnar Pulse [Left]
+   8491 | Atrial Pacemaker Sense [mA]
+   8492 | GI Tube #1 [Site]
+   8493 | GI Tube #2 [Site]
+   8494 | GI Tube #3 [Drain]
+   8495 | Ventricular Pacemaker Sense [mA]
+   8498 | O2 sat [Post]
+   8499 | Anterior Fontanelle [Shape]
+   8500 | Apnea [Duration]
+   8501 | BP Alarm [High]
+   8502 | BP Cuff [Diastolic]
+   8503 | BP Left Arm [Diastolic]
+   8504 | BP Left Leg [Diastolic]
+   8505 | BP PAL [Diastolic]
+   8506 | BP Right Arm [Diastolic]
+   8507 | BP Right Leg [Diastolic]
+   8508 | BP UAC [Diastolic]
+   8510 | Bruising [Location]
+   8511 | CVP Alarm [High]
+   8512 | Car Safety Seat Screen [Result]
+   8513 | [Color]
+   8514 | Edema [Location]
+   8516 | Eye Drainage [Right]
+   8517 | FIO2 Alarm [High]
+   8518 | HR Alarm [High]
+   8519 | Hernia [Left]
+   8520 | Hernia [Right]
+   8521 | IV #1 [Location]
+   8522 | IV #2 [Location]
+   8523 | IV #3 [Location]
+   8524 | IV #4 [Location]
+   8525 | IV #5 [Location]
+   8526 | Kangaroo Care [Tolerated]
+   8527 | MAWP Alarm [High]
+   8529 | Posterior Fontanelle [Shape]
+   8531 | Remote Alarm [D]
+   8532 | SaO2 Alarm [High]
+   8533 | Seizure [Duration, seconds]
+   8534 | Skin Integrity [Attribute #2]
+   8535 | Stool [Color]
+   8536 | TcCO2 [Value]
+   8537 | Temp/Iso/Warmer [Temperature, degrees C]
+   8538 | Testes [Right]
+   8547 | ABP Alarm [High]
+   8548 | CVP Alarm [High]
+   8549 | HR Alarm [High]
+   8550 | ICP Alarm [High]
+   8551 | NBP Alarm [High]
+   8552 | PAP Alarm [High]
+   8553 | Resp Alarm [High]
+   8554 | SpO2 Alarm [High]
+   8555 | Arterial BP #2 [Diastolic]
+ 220045 | Heart Rate
+ 220046 | Heart rate Alarm - High
+ 220047 | Heart Rate Alarm - Low
+ 220048 | Heart Rhythm
+ 220050 | Arterial Blood Pressure systolic
+ 220051 | Arterial Blood Pressure diastolic
+ 220052 | Arterial Blood Pressure mean
+ 220056 | Arterial Blood Pressure Alarm - Low
+ 220058 | Arterial Blood Pressure Alarm - High
+ 220059 | Pulmonary Artery Pressure systolic
+ 220060 | Pulmonary Artery Pressure diastolic
+ 220061 | Pulmonary Artery Pressure mean
+ 220063 | Pulmonary Artery Pressure Alarm - High
+ 220066 | Pulmonary Artery Pressure Alarm - Low
+ 220072 | Central Venous Pressure Alarm - High
+ 220073 | Central Venous Pressure  Alarm - Low
+ 220074 | Central Venous Pressure
+ 220088 | Cardiac Output (thermodilution)
+ 220120 | Intra Aortic Ballon Pump Setting
+ 220125 | Left Ventricular Assit Device Flow
+ 220179 | Non Invasive Blood Pressure systolic
+ 220180 | Non Invasive Blood Pressure diastolic
+ 220181 | Non Invasive Blood Pressure mean
+ 220194 | Temporary AV interval
+ 220210 | Respiratory Rate
+ 220224 | Arterial O2 pressure
+ 220227 | Arterial O2 Saturation
+ 220228 | Hemoglobin
+ 220235 | Arterial CO2 Pressure
+ 220245 | CO2 production
+ 220274 | PH (Venous)
+ 220277 | O2 saturation pulseoxymetry
+ 220283 | Resistance
+ 220292 | Minute Volume Alarm - Low
+ 220293 | Minute Volume Alarm - High
+ 220339 | PEEP set
+ 220507 | Activated Clotting Time
+ 220545 | Hematocrit (serum)
+ 220546 | WBC
+ 220580 | Ammonia
+ 220581 | Amylase
+ 220587 | AST
+ 220602 | Chloride (serum)
+ 220603 | Cholesterol
+ 220615 | Creatinine
+ 220621 | Glucose (serum)
+ 220624 | HDL
+ 220632 | LDH
+ 220635 | Magnesium
+ 220644 | ALT
+ 220645 | Sodium (serum)
+ 220650 | Total Protein
+ 220734 | PH (dipstick)
+ 220739 | GCS - Eye Opening
+ 220765 | Intra Cranial Pressure
+ 223059 | Intubation - Details
+ 223679 | TCO2 (calc) Venous
+ 223751 | Non-Invasive Blood Pressure Alarm - High
+ 223752 | Non-Invasive Blood Pressure Alarm - Low
+ 223753 | Riker-SAS Scale
+ 223754 | Risk for Falls
+ 223758 | Code Status
+ 223759 | Precautions: Standard +
+ 223760 | Health Care Proxy
+ 223761 | Temperature Fahrenheit
+ 223762 | Temperature Celsius
+ 223763 | Bladder Pressure
+ 223764 | Orthostatic HR lying
+ 223765 | Orthostatic HR sitting
+ 223766 | Orthostatic BPs standing
+ 223767 | Intra Cranial Pressure Alarm - High
+ 223768 | Intra Cranial Pressure Alarm - Low
+ 223769 | O2 Saturation Pulseoxymetry Alarm - High
+ 223770 | O2 Saturation Pulseoxymetry Alarm - Low
+ 223771 | PCWP
+ 223772 | SvO2
+ 223773 | PA Line cm Mark
+ 223780 | Daily Wake Up Deferred
+ 223781 | Pain Present
+ 223782 | Pain Type
+ 223783 | Pain Location
+ 223784 | Pain Cause
+ 223791 | Pain Level
+ 223792 | Pain Management
+ 223794 | Pain Level Acceptable
+ 223795 | Pain Assessment Method
+ 223796 | Untoward Effect
+ 223797 | Sensory Level
+ 223800 | Epidural Appearance
+ 223801 | NMB Medication
+ 223802 | Nerve Stimulated
+ 223805 | Nausea and Vomiting (CIWA)
+ 223806 | Tremor (CIWA)
+ 223810 | Paroxysmal Sweats
+ 223811 | Anxiety
+ 223814 | Auditory Disturbance
+ 223817 | Agitation
+ 223818 | Tactile Disturbances
+ 223819 | Visual Disturbances
+ 223820 | Headache
+ 223821 | Orient/Clouding Sensory
+ 223823 | Insomnia
+ 223824 | Seizure
+ 223825 | Sustained Nystagmus
+ 223827 | Ataxia
+ 223828 | Slurred Speech
+ 223829 | Drowsiness
+ 223830 | PH (Arterial)
+ 223834 | O2 Flow
+ 223835 | Inspired O2 Fraction
+ 223836 | Airway Type
+ 223837 | ETT Size (ID)
+ 223838 | ETT Location
+ 223840 | ETT Re-taped
+ 223847 | Passey Muir Valve in use
+ 223848 | Ventilator Type
+ 223849 | Ventilator Mode
+ 223872 | Inspired Gas Temp.
+ 223873 | Paw High
+ 223874 | Vti High
+ 223875 | Fspn High
+ 223876 | Apnea Interval
+ 223898 | Orientation
+ 223900 | GCS - Verbal Response
+ 223901 | GCS - Motor Response
+ 223902 | Speech
+ 223903 | Communication
+ 223904 | Gag Reflex
+ 223905 | Cough Reflex
+ 223907 | Pupil Size Right
+ 223910 | Follows Commands
+ 223911 | Spontaneous Movement
+ 223916 | Response to Stimuli (Type)
+ 223917 | RU Strength/Movement
+ 223918 | RL Strength/Movement
+ 223919 | LU Strength/Movement
+ 223920 | LL Strength/Movement
+ 223921 | Neuro Symptoms
+ 223923 | Seizure Activity
+ 223924 | RLE Sensation
+ 223925 | Seizure Duration
+ 223926 | Neuro Drain #1 Type
+ 223930 | Neuro Drain #1 Level
+ 223931 | Neuro Drain #1 Status
+ 223932 | Neuro Drain #1 Drainage
+ 223934 | Dorsal PedPulse R
+ 223935 | PostTib. Pulses R
+ 223936 | Radial Pulse R
+ 223938 | Ulnar Pulse R
+ 223939 | Brachial Pulse R
+ 223940 | Femoral Pulse R
+ 223941 | Popliteal Pulse R
+ 223942 | Graft/Flap Pulse
+ 223943 | Dorsal PedPulse L
+ 223944 | Brachial Pulse L
+ 223945 | Femoral Pulse L
+ 223946 | Popliteal Pulse L
+ 223947 | PostTib. Pulses L
+ 223948 | Radial Pulse L
+ 223949 | Ulnar Pulse L
+ 223951 | Capillary Refill R
+ 223952 | Pericardial Drain Status
+ 223953 | Pericardial Drain Drainage
+ 223954 | Pericardial Drain Site
+ 223955 | Temporary Pacemaker Type
+ 223956 | Temporary Pacemaker Mode
+ 223958 | Temporary Venticular Sens Threshold mV
+ 223960 | Temporary Venticular Stim Threshold mA
+ 223961 | Temporary Pacemaker Wire Condition
+ 223962 | Temporary Pacemaker Wires Venticular
+ 223963 | Temporary Pacemaker Wires Ground
+ 223966 | Transcutaneous Pacer Placement
+ 223967 | Angio Site # 1
+ 223968 | Angio Appearance # 1
+ 223970 | Angio Dressing # 1
+ 223971 | Angio Site # 2
+ 223972 | Angio Appearance # 2
+ 223973 | Angio Dressing # 2
+ 223976 | RUE Color
+ 223979 | RLE Color
+ 223982 | LUE Color
+ 223983 | LLE Color
+ 223985 | Respiratory Pattern
+ 223986 | RUL Lung Sounds
+ 223987 | RLL Lung Sounds
+ 223988 | LUL Lung Sounds
+ 223989 | LLL Lung Sounds
+ 223990 | Respiratory Effort
+ 223991 | Cough Effort
+ 223992 | Cough Type
+ 223993 | Chest Tube Site # 1
+ 223994 | CT #1 Suction Amount
+ 223995 | CT #1 Fluctuate
+ 223996 | CT #1 Drainage
+ 223997 | CT #1 Dressing
+ 223998 | CT #1 Crepitus
+ 223999 | Oral Cavity
+ 224000 | Nares R
+ 224001 | Diet Type
+ 224003 | Abdominal Assessment
+ 224004 | Bowel Sounds
+ 224005 | Flatus
+ 224006 | Emesis Appearance
+ 224007 | GI #1 Intub Site
+ 224009 | GI #1 Tube Drainage
+ 224010 | GI #1 Tube Place Check
+ 224011 | Stool Consistency
+ 224012 | Stool Management
+ 224013 | Stool Guaiac
+ 224015 | Urine Source
+ 224016 | Urine Color
+ 224017 | GU Catheter Size
+ 224019 | Bladder Irrigation
+ 224023 | Support Systems
+ 224024 | Family Communication
+ 224025 | Spiritual Support
+ 224026 | Skin Integrity
+ 224027 | Skin Temperature
+ 224028 | Skin Color
+ 224031 | Edema Location
+ 224032 | Impaired Skin Site #1
+ 224037 | Impaired Skin Cleanse #1
+ 224038 | Impaired Skin Treatment #1
+ 224040 | Incision Closure #1
+ 224041 | Incision Drainage #1
+ 224042 | Incision Dressing #1
+ 224043 | Incision Cleansing #1
+ 224044 | Incision Packing #1
+ 224054 | Braden Sensory Perception
+ 224055 | Braden Moisture
+ 224056 | Braden Activity
+ 224057 | Braden Mobility
+ 224058 | Braden Nutrition
+ 224059 | Braden Friction/Shear
+ 224061 | Reason for Restraint (Behavioral)_V1
+ 224062 | Less Restrictive Measures (Acute Med/Surgical)
+ 224063 | Restraint Type
+ 224064 | Restraint Location_V1
+ 224065 | Circulation/Skin Integrity
+ 224066 | Position Change
+ 224067 | Range of Motion
+ 224068 | Restraints Evaluated_V1
+ 224069 | Side Rails_V1
+ 224070 | Sitter
+ 224072 | Education Learner
+ 224073 | Education Topic
+ 224075 | Education Readiness
+ 224076 | Education Barrier
+ 224077 | Education Method
+ 224079 | Education Response
+ 224080 | Head of Bed
+ 224082 | Turn
+ 224084 | Activity
+ 224085 | Assistance Device
+ 224086 | Activity Tolerance
+ 224087 | Therapeutic Bed
+ 224088 | Pressure Reducing Device
+ 224089 | Anti Embolic Device
+ 224090 | Knee Immobilizer Status
+ 224091 | Continuous Pressure Machine Status
+ 224092 | Range of Motion Location
+ 224093 | Position
+ 224101 | Chest PT R/L
+ 224105 | Warming Device
+ 224106 | Cooling Device
+ 224109 | Cervical Collar Type
+ 224110 | Cervical Collar Status
+ 224113 | Traction/Immobile Location #1
+ 224114 | PT Splint Location #1
+ 224119 | 22 Gauge Site Appear
+ 224121 | 22 Gauge Reason Discontinued
+ 224144 | Blood Flow (ml/min)
+ 224145 | Heparin Dose (per hour)
+ 224146 | System Integrity
+ 224149 | Access Pressure
+ 224150 | Filter Pressure
+ 224151 | Effluent Pressure
+ 224152 | Return Pressure
+ 224153 | Replacement Rate
+ 224154 | Dialysate Rate
+ 224161 | Resp Alarm - High
+ 224162 | Resp Alarm - Low
+ 224166 | Doppler BP
+ 224167 | Manual Blood Pressure Systolic Left
+ 224168 | Parameters Checked
+ 224169 | MDI #1 Puff
+ 224170 | MDI #1 Drug
+ 224172 | MDI #2 Puff
+ 224173 | MDI #2 Drug
+ 224175 | MDI #3 Puff
+ 224176 | MDI #3 Drug
+ 224178 | Small Volume Neb Dose #2
+ 224181 | Small Volume Neb Drug #1
+ 224188 | PICC Line Site Appear
+ 224191 | Hourly Patient Fluid Removal
+ 224192 | Pulsus Paradoxus
+ 224226 | Impaired Skin Wound Base #1
+ 224259 | Impaired Skin Drainage #1
+ 224281 | Multi Lumen Site Appear
+ 224283 | Multi Lumen Waveform Appear
+ 224289 | Arterial line Site Appear
+ 224291 | Arterial line Waveform Appear
+ 224297 | Cordis/Introducer Site Appear
+ 224308 | Capillary Refill L
+ 224309 | Assisted Systole
+ 224310 | Augmented Diastole
+ 224311 | BAEDP
+ 224314 | ABI Brachial BP R (Impella)
+ 224315 | ABI Brachial BP L
+ 224317 | ABI Ankle BP R
+ 224318 | ABI Ankle BP L (Impella)
+ 224322 | IABP Mean
+ 224327 | PCA medication
+ 224328 | PCA dose
+ 224329 | PCA lockout (min)
+ 224330 | PCA 1 hour limit
+ 224331 | PCA basal rate (mL/hour)
+ 224332 | PCA inject
+ 224359 | QTc
+ 224366 | Epidural Infusion Rate (mL/hr)
+ 224368 | Epidural Medication
+ 224369 | Sputum Consistency
+ 224370 | Sputum Color
+ 224372 | Sputum Source
+ 224373 | Sputum Amount
+ 224375 | Cont Neb - Med
+ 224379 | PCA cleared
+ 224389 | Heart Sounds
+ 224390 | Temporary Atrial Sens
+ 224391 | ETT Mark (location)
+ 224392 | ETT Position Change
+ 224404 | ART Lumen Volume
+ 224406 | VEN Lumen Volume
+ 224409 | Pain Level Response
+ 224410 | PCA bolus
+ 224411 | Epidural Bolus (mL)
+ 224413 | TOF Response
+ 224414 | TOF Twitch
+ 224415 | ETT Mark (cm)
+ 224417 | Cuff Pressure
+ 224418 | Cuff Volume (mL)
+ 224419 | Negative Insp. Force
+ 224420 | Vital Cap
+ 224421 | Spont Vt
+ 224422 | Spont RR
+ 224423 | CT #2 Crepitus
+ 224424 | CT #2 Drainage
+ 224425 | CT #2 Dressing
+ 224426 | CT #2 Fluctuate
+ 224427 | CT #2 Suction Amount
+ 224428 | CT #3 Crepitus
+ 224429 | CT #4 Crepitus
+ 224430 | CT #3 Drainage
+ 224431 | CT #4 Drainage
+ 224432 | CT #3 Dressing
+ 224433 | CT #4 Dressing
+ 224434 | CT #3 Fluctuate
+ 224435 | CT #4 Fluctuate
+ 224436 | CT #3 Suction Amount
+ 224437 | CT #4 Suction Amount
+ 224438 | Chest Tube Site # 2
+ 224439 | Chest Tube Site #3
+ 224440 | Chest Tube Site #4
+ 224441 | GI #2 Intub Site
+ 224442 | GI #3 Intub Site
+ 224443 | GI #2 Tube Place Check
+ 224444 | GI #3 Tube Place Check
+ 224445 | GI #2 Tube Drainage
+ 224446 | GI #3 Tube Drainage
+ 224447 | Family Meeting
+ 224452 | Traction/Immobile Location #2
+ 224456 | PT Splint Location #2
+ 224457 | PT Splint Location #3
+ 224561 | Impaired Skin Type #1
+ 224562 | Impaired Skin Length #1
+ 224563 | Impaired Skin Depth #1
+ 224564 | Impaired Skin Odor #1
+ 224565 | Surrounding Tissue #1
+ 224631 | Pressure Ulcer Stage #1
+ 224632 | Tunneling Present #1
+ 224633 | Undermining Present #1
+ 224639 | Daily Weight
+ 224640 | Service
+ 224641 | Alarms On
+ 224642 | Temperature Site
+ 224643 | Manual Blood Pressure Diastolic Left
+ 224645 | Orthostatic BPs lying
+ 224646 | Orthostatic BPs sitting
+ 224647 | Orthostatic HR standing
+ 224650 | Ectopy Type 1
+ 224651 | Ectopy Frequency 1
+ 224652 | Unassisted Systole
+ 224654 | PAEDP
+ 224660 | ECMO
+ 224661 | Baseline Current/mA
+ 224662 | Current Used/mA
+ 224663 | PCA attempt
+ 224665 | PCA total dose
+ 224666 | Nasal Congestion
+ 224667 | Goose Flesh
+ 224668 | Sweating
+ 224669 | Restlessness
+ 224670 | Lacrimation
+ 224671 | Pupils
+ 224672 | Yawning
+ 224673 | Abdominal Changes: Observation
+ 224674 | Changes in Temperature
+ 224675 | Muscle Aches
+ 224676 | Nausea and Vomiting (CINA)
+ 224677 | Tremor (CINA)
+ 224680 | Cuff Volume/units
+ 224684 | Tidal Volume (set)
+ 224685 | Tidal Volume (observed)
+ 224686 | Tidal Volume (spontaneous)
+ 224687 | Minute Volume
+ 224688 | Respiratory Rate (Set)
+ 224689 | Respiratory Rate (spontaneous)
+ 224690 | Respiratory Rate (Total)
+ 224691 | Flow Rate (L/min)
+ 224692 | Flow Pattern
+ 224695 | Peak Insp. Pressure
+ 224696 | Plateau Pressure
+ 224697 | Mean Airway Pressure
+ 224700 | Total PEEP Level
+ 224701 | PSV Level
+ 224702 | PCV Level (Avea)
+ 224704 | ATC %
+ 224705 | P High (APRV)
+ 224706 | P Low (APRV)
+ 224707 | T High (APRV)
+ 224709 | T Low (APRV)
+ 224710 | Recruitment Press
+ 224711 | Recruitment Duration
+ 224712 | Recruitment Mode
+ 224713 | Circuit Changed
+ 224715 | SBT Started
+ 224716 | SBT Stopped
+ 224717 | SBT Successfully Completed
+ 224728 | Peak Exp Flow Rate
+ 224730 | Corneal Reflex Right
+ 224731 | Corneal Reflex Left
+ 224733 | Pupil Size Left
+ 224735 | Flow Rate (variable/fixed)
+ 224738 | Inspiratory Time
+ 224740 | RSBI Deferred
+ 224743 | Vd/Vt Ratio
+ 224746 | Transpulmonary Pressure (Exp. Hold)
+ 224747 | Transpulmonary Pressure (Insp. Hold)
+ 224749 | Nitric Oxide
+ 224750 | Nitric Oxide Tank Pressure
+ 224751 | Temporary Pacemaker Rate
+ 224752 | Temporary Atrial Sens Threshold mV
+ 224753 | Temporary Atrial Sens Setting mV
+ 224754 | Temporary Atrial Stim Threshold mA
+ 224755 | Temporary Atrial Stim Setting mA
+ 224756 | Response
+ 224758 | RUE Sensation
+ 224759 | LUE Sensation
+ 224762 | LLE Sensation
+ 224767 | RUE Temp
+ 224769 | LUE Temp
+ 224771 | RLE Temp
+ 224773 | LLE Temp
+ 224775 | CT #1 Leak
+ 224777 | CT #2 Leak
+ 224779 | CT #3 Leak
+ 224781 | CT #4 Leak
+ 224785 | GI #1 Tube Type
+ 224786 | GI #1 Tube Status
+ 224788 | GI #2 Tube Type
+ 224789 | GI #2 Tube Status
+ 224791 | GI #3 Tube Type
+ 224792 | GI #3 Tube Status
+ 224794 | Stool Color
+ 224796 | Ostomy
+ 224797 | Ostomy Appearance
+ 224800 | AV Fistula R Bruit
+ 224801 | AV Fistula R Thrill
+ 224803 | AV Fistula L Bruit
+ 224804 | AV Fistula L Thrill
+ 224806 | CT #1 Suction Type
+ 224808 | CT #2 Suction Type
+ 224810 | CT #3 Suction Type
+ 224812 | CT #4 Suction Type
+ 224814 | GI #1 Tube Place Method
+ 224816 | GI #2 Tube Place Method
+ 224828 | Arterial Base Excess
+ 224829 | Trach Tube Type
+ 224830 | Trach Tube Manufacturer
+ 224831 | Trach Tube Size (I.D.)
+ 224832 | ETT Type
+ 224833 | SBT Deferred
+ 224834 | Temporary Ventricular Sens
+ 224835 | Temporary Ventricular Capture
+ 224837 | Temporary Ventricular Sens Setting mV
+ 224838 | Temporary Ventricular Stim Setting mA
+ 224839 | Temporary Pacemaker Wires Atrial
+ 224842 | Cardiac Output (CCO)
+ 224844 | Permanent Pacemaker Mode
+ 224845 | Permanent Pacemaker Rate
+ 224846 | Impaired Skin Width #1
+ 224847 | Impaired Skin Drainage Amount #1
+ 224848 | Incision Appearance #1
+ 224850 | Incision Drainage Amount #1
+ 224851 | Dressing Status #1
+ 224854 | Reason for Restraint (Acute Medical/Surgical)_V1
+ 224855 | Patient/Family Informed_V1
+ 224856 | Restraints Ordered
+ 224857 | Less Restrictive Measures (Behavioral)
+ 224858 | Patient Behavior During Application
+ 224859 | Status and Comfort (Behavioral)
+ 224860 | Skin Condition
+ 224862 | Edema Amount
+ 224865 | Flow Sensitivity
+ 224866 | Temporary Atrial Capture
+ 224876 | Urine Appearance
+ 224879 | Nares L
+ 224888 | Impaired Skin Cleanse #2
+ 224889 | Impaired Skin Cleanse #3
+ 224890 | Impaired Skin Cleanse #4
+ 224891 | Impaired Skin Cleanse #5
+ 224892 | Impaired Skin Cleanse #6
+ 224893 | Impaired Skin Cleanse #7
+ 224894 | Impaired Skin Cleanse #8
+ 224895 | Impaired Skin Depth #2
+ 224896 | Impaired Skin Depth #3
+ 224897 | Impaired Skin Depth #4
+ 224898 | Impaired Skin Depth #5
+ 224899 | Impaired Skin Depth #6
+ 224900 | Impaired Skin Depth #7
+ 224901 | Impaired Skin Depth #8
+ 224902 | Impaired Skin Drainage #2
+ 224903 | Impaired Skin Drainage #3
+ 224904 | Impaired Skin Drainage #4
+ 224905 | Impaired Skin Drainage #5
+ 224906 | Impaired Skin Drainage #6
+ 224907 | Impaired Skin Drainage #7
+ 224908 | Impaired Skin Drainage #8
+ 224909 | Impaired Skin Drainage Amount #2
+ 224910 | Impaired Skin Drainage Amount #3
+ 224911 | Impaired Skin Drainage Amount #4
+ 224912 | Impaired Skin Drainage Amount #5
+ 224913 | Impaired Skin Drainage Amount #6
+ 224914 | Impaired Skin Drainage Amount #7
+ 224915 | Impaired Skin Drainage Amount #8
+ 224916 | Impaired Skin Length #2
+ 224917 | Impaired Skin Length #3
+ 224918 | Impaired Skin Length #4
+ 224919 | Impaired Skin Length #5
+ 224920 | Impaired Skin Length #6
+ 224921 | Impaired Skin Length #7
+ 224922 | Impaired Skin Length #8
+ 224923 | Impaired Skin Odor #2
+ 224924 | Impaired Skin Odor #3
+ 224925 | Impaired Skin Odor #4
+ 224926 | Impaired Skin Odor #5
+ 224927 | Impaired Skin Odor #6
+ 224928 | Impaired Skin Odor #7
+ 224929 | Impaired Skin Odor #8
+ 224930 | Impaired Skin Site #2
+ 224931 | Impaired Skin Site #3
+ 224932 | Impaired Skin Site #4
+ 224933 | Impaired Skin Site #5
+ 224934 | Impaired Skin Site #6
+ 224935 | Impaired Skin Site #7
+ 224936 | Impaired Skin Site #8
+ 224937 | Impaired Skin Treatment #2
+ 224938 | Impaired Skin Treatment #3
+ 224939 | Impaired Skin Treatment #4
+ 224940 | Impaired Skin Treatment #5
+ 224941 | Impaired Skin Treatment #6
+ 224942 | Impaired Skin Treatment #7
+ 224943 | Impaired Skin Treatment #8
+ 224944 | Impaired Skin Type #2
+ 224945 | Impaired Skin Type #3
+ 224946 | Impaired Skin Type #4
+ 224947 | Impaired Skin Type #5
+ 224948 | Impaired Skin Type #6
+ 224949 | Impaired Skin Type #7
+ 224950 | Impaired Skin Type #8
+ 224951 | Impaired Skin Width #2
+ 224952 | Impaired Skin Width #3
+ 224953 | Impaired Skin Width #4
+ 224954 | Impaired Skin Width #5
+ 224955 | Impaired Skin Width #6
+ 224956 | Impaired Skin Width #7
+ 224957 | Impaired Skin Width #8
+ 224958 | Impaired Skin Wound Base #2
+ 224959 | Impaired Skin Wound Base #3
+ 224960 | Impaired Skin Wound Base #4
+ 224961 | Impaired Skin Wound Base #5
+ 224962 | Impaired Skin Wound Base #6
+ 224963 | Impaired Skin Wound Base #7
+ 224964 | Impaired Skin Wound Base #8
+ 224965 | Pressure Ulcer Stage #2
+ 224966 | Pressure Ulcer Stage #3
+ 224967 | Pressure Ulcer Stage #4
+ 224968 | Pressure Ulcer Stage #5
+ 224969 | Pressure Ulcer Stage #6
+ 224970 | Pressure Ulcer Stage #7
+ 224971 | Pressure Ulcer Stage #8
+ 224972 | Surrounding Tissue #2
+ 224973 | Surrounding Tissue #3
+ 224974 | Surrounding Tissue #4
+ 224975 | Surrounding Tissue #5
+ 224976 | Surrounding Tissue #6
+ 224977 | Surrounding Tissue #7
+ 224978 | Surrounding Tissue #8
+ 224979 | Tunneling Present #2
+ 224980 | Tunneling Present #3
+ 224981 | Tunneling Present #4
+ 224982 | Tunneling Present #5
+ 224983 | Tunneling Present #6
+ 224984 | Tunneling Present #7
+ 224985 | Tunneling Present #8
+ 224986 | Undermining Present #2
+ 224987 | Undermining Present #3
+ 224988 | Undermining Present #4
+ 224989 | Undermining Present #5
+ 224990 | Undermining Present #6
+ 224991 | Undermining Present #7
+ 224992 | Undermining Present #8
+ 224993 | Incision Appearance #2
+ 224994 | Incision Appearance #3
+ 224995 | Incision Appearance #4
+ 224996 | Incision Appearance #5
+ 224997 | Incision Appearance #6
+ 224998 | Incision Cleansing #2
+ 224999 | Incision Cleansing #3
+ 225000 | Incision Cleansing #4
+ 225001 | Incision Cleansing #5
+ 225002 | Incision Cleansing #6
+ 225003 | Incision Closure #6
+ 225004 | Incision Closure #2
+ 225005 | Incision Closure #3
+ 225006 | Incision Closure #4
+ 225007 | Incision Closure #5
+ 225013 | Incision Drainage #2
+ 225014 | Incision Drainage #3
+ 225015 | Incision Drainage #4
+ 225016 | Incision Drainage #5
+ 225017 | Incision Drainage #6
+ 225018 | Incision Drainage Amount #2
+ 225019 | Incision Drainage Amount #3
+ 225020 | Incision Drainage Amount #4
+ 225021 | Incision Drainage Amount #5
+ 225022 | Incision Drainage Amount #6
+ 225023 | Incision Dressing #2
+ 225024 | Incision Dressing #3
+ 225025 | Incision Dressing #4
+ 225026 | Incision Dressing #5
+ 225027 | Incision Dressing #6
+ 225028 | Dressing Status #2
+ 225029 | Dressing Status #3
+ 225030 | Dressing Status #4
+ 225031 | Dressing Status #5
+ 225032 | Dressing Status #6
+ 225043 | Incision Packing #2
+ 225044 | Incision Packing #3
+ 225045 | Incision Packing #4
+ 225046 | Incision Packing #5
+ 225047 | Incision Packing #6
+ 225048 | Knee Location - Immobilizer
+ 225050 | Warming Device Status
+ 225052 | Cooling Device Status
+ 225054 | Anti Embolic Device Status
+ 225059 | Past medical history
+ 225067 | Is the spokesperson the Health Care Proxy
+ 225070 | Unable to assess psychological
+ 225072 | Living situation
+ 225074 | Any fear in relationships
+ 225076 | Emotional / physical / sexual harm by partner or close relation
+ 225078 | Social work consult
+ 225082 | Pregnant
+ 225085 | Post menopausal
+ 225086 | Unable to assess cognitive / perceptual
+ 225087 | Visual / hearing deficit
+ 225090 | Interpreter
+ 225091 | Unable to assess activity / mobility
+ 225092 | Self ADL
+ 225094 | History of slips / falls
+ 225097 | Balance
+ 225099 | Judgement
+ 225101 | Use of assistive devices
+ 225103 | Intravenous  / IV access prior to admission
+ 225105 | Unable to assess habits
+ 225106 | ETOH
+ 225108 | Tobacco use
+ 225110 | Recreational drug use
+ 225112 | Unable to assess pain
+ 225113 | Currently experiencing pain
+ 225117 | Unable to assess nutrition / education
+ 225118 | Difficulty swallowing
+ 225120 | Appetite
+ 225122 | Special diet
+ 225124 | Unintentional weight loss >10 lbs.
+ 225126 | Dialysis patient
+ 225129 | Unable to assess teaching / learning needs
+ 225131 | Teaching directed toward
+ 225133 | Discharge needs
+ 225135 | Consults
+ 225137 | Patient valuables
+ 225142 | Money given to hospital cashier
+ 225175 | See chart for initial patient assessment
+ 225176 | Range of Motion Status
+ 225180 | PT Splint Status #1
+ 225182 | PT Splint Status #2
+ 225183 | Current Goal
+ 225184 | Eye Care
+ 225185 | Skin Care
+ 225187 | Back Care
+ 225188 | Cough/Deep Breath
+ 225189 | Incentive Spirometry
+ 225190 | Pin Care
+ 225191 | Ostomy Care
+ 225192 | Collar Care
+ 225194 | PT Splint Status #3
+ 225206 | Multi Lumen Zero/Calibrate
+ 225209 | Cash amount
+ 225210 | Arterial Line Zero/Calibrate
+ 225217 | Trauma Line Site Appear
+ 225225 | CCO PAC Site Appear
+ 225227 | CCO PAC Waveform Appear
+ 225228 | CCO PAC Zero/Calibrate
+ 225230 | 20 Gauge Reason Discontinued
+ 225231 | 20 Gauge Site Appear
+ 225233 | 18 Gauge Reason Discontinued
+ 225234 | 18 Gauge Site Appear
+ 225236 | 16 Gauge Reason Discontinued
+ 225237 | 16 Gauge Site Appear
+ 225239 | 14 Gauge Reason Discontinued
+ 225240 | 14 Gauge Site Appear
+ 225280 | Called Out
+ 225309 | ART BP Systolic
+ 225310 | ART BP Diastolic
+ 225312 | ART BP mean
+ 225313 | Bed Bath
+ 225323 | Dialysis Catheter Site Appear
+ 225331 | Tunneled (Hickman) Site Appear
+ 225339 | IABP Site Appear
+ 225341 | IABP Art. Waveform Appear
+ 225342 | IABP Zero/Calibrate
+ 225347 | Midline Site Appear
+ 225355 | PA Catheter Site Appear
+ 225357 | PA Catheter Waveform Appear
+ 225358 | PA Catheter Zero/Calibrate
+ 225371 | Pheresis Catheter Site Appear
+ 225379 | Indwelling Port (PortaCath) Site Appear
+ 225387 | Presep Catheter Site Appear
+ 225388 | Presep Catheter Waveform Appear
+ 225389 | Presep Catheter Zero/Calibrate
+ 225395 | Triple Introducer Site Appear
+ 225397 | Triple Introducer Waveform Appear
+ 225398 | Triple Introducer Zero/Calibrate
+ 225410 | Acute rehab
+ 225411 | Patient on vent
+ 225413 | Skilled nursing facility
+ 225415 | Home with services
+ 225416 | Long term care custodial non-Medicare certified
+ 225417 | Assisted living
+ 225418 | VA hospital
+ 225419 | Hospice inpatient
+ 225420 | Hospice home
+ 225421 | DME
+ 225422 | Transportation
+ 225423 | Free care pharmacy 
+ 225424 | Patient/family/team understand & agree with plan
+ 225612 | Alkaline Phosphate
+ 225624 | BUN
+ 225625 | Calcium non-ionized
+ 225628 | CK-MB fraction (%)
+ 225634 | CK (CPK)
+ 225636 | D-Dimer
+ 225637 | Differential-Atyps
+ 225638 | Differential-Bands
+ 225639 | Differential-Basos
+ 225640 | Differential-Eos
+ 225641 | Differential-Lymphs
+ 225642 | Differential-Monos
+ 225643 | Differential-Neuts
+ 225651 | Direct Bilirubin
+ 225664 | Glucose finger stick
+ 225667 | Ionized Calcium
+ 225668 | Lactic Acid
+ 225671 | LDL calculated
+ 225672 | Lipase
+ 225674 | Mixed Venous O2% Sat
+ 225677 | Phosphorous
+ 225684 | Serum Osmolality
+ 225690 | Total Bilirubin
+ 225692 | Total Granulocyte Count (TGC)
+ 225693 | Triglyceride
+ 225695 | Uric Acid
+ 225698 | TCO2 (calc) Arterial
+ 225722 | Arterial Line Tip Cultured
+ 225723 | CCO PAC Line Tip Cultured
+ 225724 | Cordis/Introducer Line Tip Cultured
+ 225725 | Dialysis Catheter Tip Cultured
+ 225726 | Tunneled (Hickman) Line Tip Cultured
+ 225728 | Midline Tip Cultured
+ 225729 | Multi Lumen Line Tip Cultured
+ 225730 | PA Catheter Line Tip Cultured
+ 225731 | Pheresis Catheter Line Tip Cultured
+ 225732 | PICC Line Tip Cultured
+ 225734 | Presep Catheter Line Tip Cultured
+ 225735 | Trauma Line Tip Cultured
+ 225736 | Triple Introducer Line Tip Cultured
+ 225737 | Arterial Line Discontinued
+ 225738 | CCO PAC Discontinued
+ 225739 | Cordis/Introducer Discontinued
+ 225740 | Dialysis Catheter Discontinued
+ 225741 | Tunneled (Hickman) Line Discontinued
+ 225742 | IABP Line Discontinued
+ 225743 | Midline Discontinued
+ 225744 | Multi Lumen Line Discontinued
+ 225745 | PA Catheter Discontinued
+ 225747 | PICC Line Discontinued
+ 225748 | Indwelling Port (PortaCath) Discontinued
+ 225749 | Presep Catheter Discontinued
+ 225750 | Trauma Line Discontinued
+ 225751 | Triple Introducer Discontinued
+ 225759 | RIC Reason Discontinued
+ 225760 | RIC Site Appear
+ 225764 | Sheath Line Discontinued
+ 225767 | Sheath Site Appear
+ 225768 | Sheath Line Tip Cultured
+ 225770 | Sheath Waveform Appear
+ 225771 | Sheath Zero/Calibrate
+ 225772 | Sheath Size
+ 225806 | Volume In (PD)
+ 225807 | Volume Out (PD)
+ 225810 | Dwell Time (Peritoneal Dialysis)
+ 225811 | CV - past medical history
+ 225813 | Baseline pain level
+ 225949 | NIV Mask
+ 225951 | Peritoneal Dialysis Fluid Appearance
+ 225952 | Medication Added #1 (Peritoneal Dialysis)
+ 225953 | Solution (Peritoneal Dialysis)
+ 225954 | Dialysis Access Type
+ 225956 | Reason for CRRT Filter Change
+ 225958 | Heparin Concentration (units/mL)
+ 225959 | Medication Added Amount  #1 (Peritoneal Dialysis)
+ 225961 | Medication Added Units #1 (Peritoneal Dialysis)
+ 225963 | Peritoneal Dialysis Catheter Type
+ 225965 | Peritoneal Dialysis Catheter Status
+ 225976 | Replacement Fluid
+ 225977 | Dialysate Fluid
+ 225978 | Slope
+ 225979 | IABP Size
+ 225980 | IABP Volume
+ 225981 | IABP Alarms Activated
+ 225982 | IABP Balloon Waveform
+ 225984 | IABP Trigger
+ 225985 | IABP Helium Tubing
+ 225986 | IABP Arterial Waveform Source
+ 225987 | IABP Power Source
+ 225988 | IABP Position on leg
+ 225989 | Pericardial Drain Aspiration
+ 225990 | Pericardial Drain Flush
+ 226062 | Venous CO2 Pressure
+ 226063 | Venous O2 Pressure
+ 226092 | Orthostatic BPd lying
+ 226094 | Orthostatic BPd sitting
+ 226096 | Orthostatic BPd standing
+ 226104 | Level of Consciousness
+ 226105 | Behavior
+ 226107 | Arterial Line placed in outside facility
+ 226108 | CCO PAC placed in outside facility
+ 226109 | Cordis/Introducer placed in outside facility
+ 226110 | IABP placed in outside facility
+ 226112 | Midline placed in outside facility
+ 226113 | Multi Lumen placed in outside facility
+ 226114 | PA Catheter placed in outside facility
+ 226115 | PICC Line placed in outside facility
+ 226116 | Presep Catheter placed in outside facility
+ 226117 | Sheath placed in outside facility
+ 226118 | Dialysis Catheter placed in outside facility
+ 226119 | Trauma Line placed in outside facility
+ 226120 | Triple Introducer placed in outside facility
+ 226121 | Tunneled (Hickman) placed in outside facility
+ 226122 | Pheresis Catheter placed in outside facility
+ 226125 | ICP Line Discontinued
+ 226129 | ICP Line placed in outside facility
+ 226130 | ICP Line Site Appear
+ 226131 | ICP Line Tip Cultured
+ 226133 | ICP Line Waveform Appear
+ 226134 | ICP Line Zero/Calibrate
+ 226135 | 14 Gauge placed in outside facility
+ 226136 | 16 Gauge placed in outside facility
+ 226137 | 18 Gauge placed in outside facility
+ 226138 | 20 Gauge placed in outside facility
+ 226139 | 22 Gauge placed in outside facility
+ 226140 | RIC placed in outside facility
+ 226144 | Case Management discharge plan
+ 226152 | Required documentation
+ 226168 | Oral Care
+ 226169 | Subglottal Suctioning
+ 226170 | Head of Bead Measurement
+ 226179 | No wallet / money
+ 226180 | Sexuality / reproductive problems
+ 226183 | Estimated Energy Needs/Kg
+ 226184 | Estimated Protein Needs/Kg
+ 226185 | ICU Consent Signed
+ 226228 | Gender
+ 226253 | SpO2 Desat Limit
+ 226329 | Blood Temperature CCO (C)
+ 226381 | Marital Status
+ 226457 | Ultrafiltrate Output
+ 226473 | Blood Transfusion Consent
+ 226479 | Ectopy Type 2
+ 226480 | Ectopy Frequency 2
+ 226499 | Hemodialysis Output
+ 226504 | Phenytoin (Free)
+ 226512 | Admission Weight (Kg)
+ 226531 | Admission Weight (lbs.)
+ 226534 | Sodium (whole blood)
+ 226536 | Chloride (whole blood)
+ 226537 | Glucose (whole blood)
+ 226540 | Hematocrit (whole blood - calc)
+ 226543 | Religion
+ 226544 | Language
+ 226545 | Race
+ 226586 | Stool Estimate
+ 226707 | Height
+ 226713 | Incontinent (estimate)
+ 226730 | Height (cm)
+ 226732 | O2 Delivery Device(s)
+ 226737 | AaDO2ApacheIIValue
+ 226738 | AgeApacheIIScore
+ 226739 | AgeApacheIIValue
+ 226740 | APACHE II Diagnosistic weight factors - Medical
+ 226742 | APACHE II Diagnosistic weight factors - Surgical
+ 226743 | APACHE II
+ 226744 | APACHE II PDR - Adjusted
+ 226745 | APACHE II Predecited Death Rate
+ 226746 | ApacheII chronic health
+ 226747 | APACHEII-Chronic health points
+ 226748 | APACHEII-Renal failure
+ 226749 | ChpApacheIIScore
+ 226750 | Chronic Dilaysis
+ 226751 | CreatinineApacheIIScore
+ 226752 | CreatinineApacheIIValue
+ 226753 | DswfApacheScore
+ 226754 | FiO2ApacheIIValue
+ 226755 | GcsApacheIIScore
+ 226756 | GCSEyeApacheIIValue
+ 226757 | GCSMotorApacheIIValue
+ 226758 | GCSVerbalApacheIIValue
+ 226759 | HCO3ApacheIIValue
+ 226760 | HCO3Score
+ 226761 | HematocritApacheIIScore
+ 226762 | HematocritApacheIIValue
+ 226763 | HrApacheIIScore
+ 226764 | HrApacheIIValue
+ 226765 | MapApacheIIScore
+ 226766 | MapApacheIIValue
+ 226767 | OxygenApacheIIScore
+ 226768 | PhApacheIIScore
+ 226769 | PHApacheIIValue
+ 226771 | PotassiumApacheIIScore
+ 226772 | PotassiumApacheIIValue
+ 226773 | RrApacheIIScore
+ 226774 | RRApacheIIValue
+ 226775 | SodiumApacheIIScore
+ 226776 | SodiumApacheIIValue
+ 226777 | TempApacheIIScore
+ 226778 | TempApacheIIValue
+ 226779 | WbcApacheIIScore
+ 226780 | WBCApacheIIValue
+ 226814 | Known difficult intubation
+ 226815 | Airway problems
+ 226846 | Feeding Weight
+ 226871 | Expiratory Ratio
+ 226873 | Inspiratory Ratio
+ 226889 | Legal Guardian
+ 226892 | Re-admit < 48 hours
+ 226979 | Admission location
+ 226980 | AgeScore_ApacheIV
+ 226981 | Albumin_ApacheIV
+ 226982 | AlbuminScore_ApacheIV
+ 226984 | Apache IV Age
+ 226985 | APACHE IV diagnosis choice 1
+ 226986 | APACHE IV diagnosis choice 2
+ 226987 | APACHE IV diagnosis
+ 226990 | Apache IV PaFiRatio
+ 226991 | APACHEIII
+ 226993 | ApacheIV_LOS
+ 226994 | ApacheIV_Mortality prediction
+ 226995 | ApacheIV_Natural antilog
+ 226996 | APS
+ 226997 | ARF
+ 226998 | Bilirubin_ApacheIV
+ 226999 | BiliScore_ApacheIV
+ 227000 | BUN_ApacheIV
+ 227001 | BunScore_ApacheIV
+ 227002 | CABG Patient
+ 227003 | Chronic health on admission
+ 227004 | ChronicScore_ApacheIV
+ 227005 | Creatinine_ApacheIV
+ 227006 | CreatScore_ApacheIV
+ 227007 | Diabetes
+ 227008 | Ejection Fraction
+ 227010 | FiO2_ApacheIV
+ 227013 | GcsScore_ApacheIV
+ 227015 | Glucose_ApacheIV
+ 227016 | GlucoseScore_ApacheIV
+ 227017 | Hematocrit_ApacheIV
+ 227018 | HR_ApacheIV
+ 227019 | HrScore_ApacheIV
+ 227020 | HtScore_ApacheIV
+ 227021 | Intubated_ApacheIV
+ 227022 | LOS pre-ICU admission
+ 227023 | MAP_ApacheIV
+ 227024 | MapScore_ApacheIV
+ 227035 | OxygenScore_ApacheIV
+ 227036 | PCO2_ApacheIV
+ 227037 | PH_ApacheIV
+ 227038 | PHPaCO2Score_ApacheIV
+ 227039 | PO2_ApacheIV
+ 227050 | RR_ApacheIV
+ 227051 | RRScore_ApacheIV
+ 227052 | Sodium_ApacheIV
+ 227053 | SodiumScore_ApacheIV
+ 227054 | TemperatureF_ApacheIV
+ 227055 | TempScore_ApacheIV
+ 227056 | Thrombolytic therapy
+ 227057 | Type of admission
+ 227059 | UrineScore_ApacheIV
+ 227060 | Use A-aDO2
+ 227061 | Ventilated at any time during ICU Day 1
+ 227062 | WBC_ApacheIV
+ 227063 | WBCScore_ApacheIV
+ 227066 | Cerebral Perfusion Pressure
+ 227073 | Anion gap
+ 227088 | Admit from
+ 227089 | Discharge to
+ 227111 | PCA  dose units
+ 227113 | PCA 1 hour limit units
+ 227115 | PCA bolus units
+ 227117 | PCA total dose units
+ 227119 | Epidural Location
+ 227120 | Motor Deficit
+ 227121 | Pupil Response Right
+ 227124 | Dialysis Catheter Type
+ 227125 | Indwelling (PortaCath) Port Type
+ 227127 | Indwelling (PortaCath) Port #1
+ 227128 | Indwelling (PortaCath) Port #2
+ 227129 | Pheresis Catheter Type
+ 227130 | Trach Care
+ 227131 | Cont. Neb Med Dose
+ 227133 | Small Volume Neb Drug #2
+ 227134 | ATC Tube #
+ 227187 | Pinsp (Draeger only)
+ 227239 | ABP Alarm Source
+ 227240 | NBP Alarm Source
+ 227241 | PAP Alarm Source
+ 227242 | Manual Blood Pressure Diastolic Right
+ 227243 | Manual Blood Pressure Systolic Right
+ 227287 | O2 Flow (additional cannula)
+ 227288 | Pupil Response Left
+ 227290 | CRRT mode
+ 227292 | Arterial Line Dressing Occlusive
+ 227293 | Multi Lumen Dressing Occlusive
+ 227341 | History of falling (within 3 mnths)
+ 227342 | Secondary diagnosis
+ 227343 | Ambulatory aid
+ 227344 | IV/Saline lock
+ 227345 | Gait/Transferring
+ 227346 | Mental status
+ 227348 | Low risk (25-50) interventions
+ 227349 | High risk (>51) interventions
+ 227350 | Cordis/Introducer Dressing Occlusive
+ 227351 | PA Catheter Dressing Occlusive
+ 227352 | CCO PAC Dressing Occlusive
+ 227353 | Trauma Line Dressing Occlusive
+ 227354 | Triple Introducer Dressing Occlusive
+ 227355 | IABP Dressing Occlusive
+ 227356 | Sheath Line Dressing Occlusive
+ 227357 | Dialysis Catheter Dressing Occlusive
+ 227358 | PICC Line Dressing Occlusive
+ 227359 | Tunneled (Hickman) Dressing Occlusive
+ 227360 | Indwelling Port (PortaCath) Dressing Occlusive
+ 227362 | Pheresis Catheter Dressing Occlusive
+ 227363 | ICP Line Dressing Occlusive
+ 227364 | RIC Dressing Occlusive
+ 227365 | 14 Gauge Dressing Occlusive
+ 227366 | 16 Gauge Dressing Occlusive
+ 227367 | 18 Gauge Dressing Occlusive
+ 227368 | 20 Gauge Dressing Occlusive
+ 227369 | 22 Gauge Dressing Occlusive
+ 227375 | Daily Wake Up
+ 227378 | Patient Location
+ 227418 | Midline Dressing Occlusive
+ 227419 | Presep Catheter Dressing Occlusive
+ 227428 | SOFA Score
+ 227429 | Troponin-T
+ 227439 | Ndwelling Port (PortaCath) placed in outside facility
+ 227440 | Digoxin
+ 227441 | LDL measured
+ 227442 | Potassium (serum)
+ 227443 | HCO3 (serum)
+ 227444 | C Reactive Protein (CRP)
+ 227445 | CK-MB
+ 227446 | Brain Natiuretic Peptide (BNP)
+ 227447 | Gentamicin (Random)
+ 227448 | Gentamicin (Peak)
+ 227449 | Gentamicin (Trough)
+ 227450 | Tobramycin (Peak)
+ 227451 | Tobramycin (Random)
+ 227452 | Tobramycin (Trough)
+ 227453 | Vancomycin (Peak)
+ 227454 | Vancomycin (Random)
+ 227455 | Vancomycin (Trough)
+ 227456 | Albumin
+ 227457 | Platelet Count
+ 227460 | Phenobarbital
+ 227461 | Phenytoin (Dilantin)
+ 227462 | FK506
+ 227463 | Cortisol
+ 227464 | Potassium (whole blood)
+ 227465 | Prothrombin time
+ 227466 | PTT
+ 227467 | INR
+ 227468 | Fibrinogen
+ 227469 | Thrombin
+ 227470 | Sed Rate
+ 227471 | Specific Gravity (urine)
+ 227472 | Incision Site #1
+ 227473 | Incision Site #2
+ 227474 | Incision Site #3
+ 227475 | Incision Site #4
+ 227476 | Incision Site #5
+ 227477 | Incision Site #6
+ 227487 | GU Irrigant Type
+ 227516 | PO2 (Mixed Venous)
+ 227517 | Humidification
+ 227519 | Urine output_ApacheIV
+ 227537 | ART Blood Pressure Alarm - High
+ 227538 | ART Blood Pressure Alarm - Low
+ 227539 | ART Blood Pressure Alarm Source
+ 227543 | CO (Arterial)
+ 227546 | SVV (Arterial)
+ 227547 | SV (Arterial)
+ 227549 | ScvO2 (Presep)
+ 227565 | Ventilator Tank #1
+ 227566 | Ventilator Tank #2
+ 227567 | Airway Location
+ 227568 | Airway Size (mm)
+ 227570 | Small Volume Neb Drug/Dose #1
+ 227577 | BiPap Mode
+ 227578 | BiPap Mask
+ 227579 | BiPap EPAP
+ 227580 | BiPap IPAP
+ 227581 | BiPap bpm (S/T -Back up)
+ 227582 | BiPap O2 Flow
+ 227583 | Autoset/CPAP
+ 227585 | GI Guaiac
+ 227586 | GI pH
+ 227588 | GI #1 Tube Place Method
+ 227589 | GI #2 Tube Place Method
+ 227590 | GI #3 Tube Place Method
+ 227591 | Neuro Drain Landmark
+ 227594 | Impaired Skin Cleanse #9
+ 227595 | Impaired Skin Cleanse #10
+ 227596 | Impaired Skin Depth #9
+ 227598 | Impaired Skin Drainage #9
+ 227599 | Impaired Skin Drainage #10
+ 227600 | Impaired Skin Drainage Amount #9
+ 227601 | Impaired Skin Drainage Amount #10
+ 227602 | Impaired Skin Length #9
+ 227603 | Impaired Skin Length #10
+ 227604 | Impaired Skin Odor #9
+ 227605 | Impaired Skin Odor #10
+ 227606 | Impaired Skin Site #9
+ 227607 | Impaired Skin Site #10
+ 227608 | Impaired Skin Treatment #9
+ 227609 | Impaired Skin Treatment #10
+ 227612 | Impaired Skin Type #9
+ 227613 | Impaired Skin Type #10
+ 227614 | Impaired Skin Width #9
+ 227615 | Impaired Skin Width #10
+ 227616 | Impaired Skin Wound Base #9
+ 227617 | Impaired Skin Wound Base #10
+ 227618 | Pressure Ulcer Stage #9
+ 227619 | Pressure Ulcer Stage #10
+ 227620 | Surrounding Tissue #9
+ 227621 | Surrounding Tissue #10
+ 227622 | Tunneling Present #9
+ 227623 | Tunneling Present #10
+ 227624 | Undermining Present #9
+ 227625 | Undermining Present #10
+ 227626 | Seizure Pads
+ 227627 | Arctic Sun/Alsius Set Temp
+ 227628 | Arctic Sun Water Temp
+ 227629 | Shivering
+ 227630 | Arctic Sun Temp #1 Location
+ 227631 | Arctic Sun Temp #2 Location
+ 227632 | Arctic Sun/Alsius Temp #1 C
+ 227634 | Arctic Sun/Alsius Temp #2 C
+ 227636 | Knee Location - CPM
+ 227638 | Medication Added #2 (Peritoneal Dialysis)
+ 227640 | Medication Added Units #2 (Peritoneal Dialysis)
+ 227642 | Breast Feeding
+ 227647 | Clot Size (cm)
+ 227648 | Clots
+ 227649 | Fundus Character
+ 227650 | Fundus Location (Breadth)
+ 227651 | Lochia Character
+ 227652 | Lochia Estimate
+ 227653 | Pad Change/Hour
+ 227662 | Patient/Family Informed_V2
+ 227663 | Immobilizer
+ 227664 | Immobilizer Device
+ 227665 | Immobilizer Evaluated
+ 227666 | Immobilizer Location
+ 227667 | Reason for Immobilizer
+ 227668 | Side Rails_V2
+ 227669 | Side Rails (Restraint)
+ 227670 | Violent Restraints
+ 227671 | Non-Violent Restraints
+ 227672 | Violent Restraints Ordered
+ 227673 | Non-Violent Restraints Ordered
+ 227674 | Face to Face Eval (Non-Violent)
+ 227675 | Face to Face Eval (Violent)
+ 227676 | Reason for Restraints (Non-Violent)
+ 227677 | Reason for Restraint/Seclusion (Violent)
+ 227678 | Restraint Device (Non-Violent)
+ 227679 | Restraint Device (Violent)
+ 227680 | Restraint Location_V2
+ 227681 | Less Restrictive Measures_V1
+ 227682 | Restraints Evaluated_V2
+ 227683 | Restraint/Seclusion Observer Sheet
+ 227684 | Safety Measures
+ 227686 | Central Venous O2% Sat
+ 227687 | Tobacco Use History
+ 227688 | Smoking Cessation Info Offered through BIDMC Inpatient Guide
+ 227700 | Safety Measures
+ 227716 | Cerebral Perfusion Pressure Alarm - High
+ 227717 | Cerebral Perfusion Pressure Alarm - Low
+ 227723 | AVA Dressing Occlusive
+ 227725 | AVA Line Discontinued
+ 227726 | AVA Line Tip Cultured
+ 227727 | AVA Line placed in outside facility
+ 227728 | AVA Line Site Appear
+ 227730 | AVA Waveform Appearance
+ 227731 | AVA Line Zero/Calibrate
+ 227732 | AVA Line Placement Confirmed by X-ray
+ 227751 | CCO PAC Placement Confirmed by X-ray
+ 227752 | Cordis/Introducer Placement Confirmed by X-ray
+ 227753 | Dialysis Catheter Placement Confirmed by X-ray
+ 227754 | IABP Placement Confirmed by X-ray
+ 227755 | Midline Placement Confirmed by X-ray
+ 227756 | Multi Lumen Placement Confirmed by X-ray
+ 227757 | PA Catheter Placement Confirmed by X-ray
+ 227758 | Pheresis Catheter Placement Confirmed by X-ray
+ 227759 | PICC Line Placement Confirmed by X-ray
+ 227760 | Presep Catheter Placement Confirmed by X-ray
+ 227761 | Sheath Placement Confirmed by X-ray
+ 227762 | Trauma Line Placement Confirmed by X-ray
+ 227763 | Triple Introducer Placement Confirmed by X-ray
+ 227764 | Tunneled (Hickman) Placement Confirmed by X-ray
+ 227771 | Traction/Immobile #1
+ 227772 | Traction/Immobile #2
+ 227780 | Impaired Skin  - Dressing Status #1
+ 227781 | Impaired Skin  - Dressing Status #2
+ 227782 | Impaired Skin  - Dressing Status #3
+ 227783 | Impaired Skin - Dressing Status  #4
+ 227784 | Impaired Skin  - Dressing Status #5
+ 227785 | Impaired Skin  - Dressing Status #6
+ 227786 | Impaired Skin  - Dressing Status #7
+ 227787 | Impaired Skin  - Dressing Status  #8
+ 227788 | Impaired Skin  - Dressing Status #9
+ 227789 | Impaired Skin  - Dressing Status #10
+ 227801 | Stool Guaiac QC
+ 227802 | GI Guaiac QC
+ 227805 | SvO2 SQI
+ 227806 | ScvO2 (Presep) SQI
+ 227807 | In-line Suction Catheter Changed
+ 227808 | Heliox
+ 227809 | ETT Position Change
+ 227810 | ETT Re-taped
+ 227812 | Medication Infusion Rate - Adjunctive Pain Management
+ 227813 | Medication Bolus - Adjunctive Pain Management
+ 227815 | Site Appearance - Adjunctive Pain Management
+ 227830 | Self Feeding
+ 227831 | Grooming
+ 227832 | UE Bathing
+ 227834 | LE Bathing
+ 227835 | UE Dressing
+ 227836 | LE Dressing
+ 227837 | Toileting
+ 227839 | Home Management
+ 227840 | Money Management
+ 227841 | Community Integration
+ 227845 | Rolling
+ 227846 | Supine / Side-lying to Sit
+ 227847 | Sit to Stand
+ 227848 | Transfer
+ 227850 | Commode
+ 227853 | Other (Activity); Specify
+ 227854 | Weight Bearing Status
+ 227858 | Rest HR - Aerobic Capacity
+ 227860 | Rest RR - Aerobic Capacity
+ 227861 | Rest O2 Sat - Aerobic Capacity
+ 227864 | Activity HR - Aerobic Capacity
+ 227866 | Activity RR - Aerobic Capacity
+ 227867 | Activity O2 Sat - Aerobic Capacity
+ 227870 | Recovery HR - Aerobic Capacity
+ 227872 | Recovery RR - Aerobic Capacity
+ 227873 | Recovery O2 Sat - Aerobic Capacity
+ 227881 | Pain (0-10)
+ 227905 | Patient agrees with the above goals and is willing to participate in the rehabilitation program
+ 227915 | Position - Rest - Aerobic Activity Response
+ 227916 | Rest HR -  Aerobic Activity Response
+ 227918 | Rest RR - Aerobic Activity Response
+ 227919 | Rest O2 Sat - Aerobic Activity Response
+ 227922 | Position - Activity - Aerobic Activity Response
+ 227923 | Activity HR - Aerobic Activity Response
+ 227925 | Activity RR - Aerobic Activity Response
+ 227926 | Activity O2 sat - Aerobic Activity Response
+ 227929 | Position - Recovery - Aerobic Activity Response
+ 227930 | Recovery HR - Aerobic Activity Response
+ 227932 | Recovery RR - Aerobic Activity Response
+ 227933 | Recovery O2 sat - Aerobic Activity Response
+ 227943 | Anticipated Discharge
+ 227944 | Side Rails
+ 227945 | Restraint (Non-violent)
+ 227946 | Restraint Ordered (Non-violent)
+ 227947 | Reason for Restraint (Non-violent)
+ 227948 | Restraint Device (Non-violent)
+ 227949 | Face to Face Eval (Non-violent)
+ 227950 | Restraint Location
+ 227951 | Circulation/Skin Integrity
+ 227952 | Position Change
+ 227953 | Range of Motion
+ 227954 | Status and Comfort
+ 227955 | Food and Fluid
+ 227956 | Urinal/Bedpan
+ 227957 | Signs of Injury from Intervention
+ 227958 | Less Restrictive Measures
+ 227959 | Restraints Evaluated
+ 227960 | Patient/Family Informed
+ 227961 | Side  Rails
+ 227962 | Restraints (Violent)
+ 227963 | Restraints Ordered (Violent)
+ 227964 | Reason for Restraint (Violent)
+ 227965 | Restraint Device (Violent)
+ 227966 | Face to Face Eval (Violent)
+ 227967 | Restraint/Seclusion Observer Sheet
+ 227968 | All Medications Tolerated without Adverse Side Effects
+ 227969 | Safety Measures_U_1
+ 227980 | Intra Aortic Balloon Pump Setting
+ 227981 | Neuro Drain #2 Type
+ 227982 | Neuro Drain #2 Status
+ 227985 | Neuro Drain #1 Landmark
+ 227988 | Pronator drift present
+ 227989 | Intra Cranial Pressure #2
+ 228004 | Citrate (ACD-A)
+ 228005 | PBP (Prefilter) Replacement Rate
+ 228006 | Post Filter Replacement Rate
+ 228007 | 14 G Phlebitis Scale
+ 228008 | 14 G Infiltration Scale
+ 228009 | 16 G Phlebitis Scale
+ 228010 | 16 G Infiltration Scale
+ 228011 | 18 G Phlebitis Scale
+ 228012 | 18 G Infiltration Scale
+ 228013 | 20 G Phlebitis Scale
+ 228014 | 20 G Infiltration Scale
+ 228015 | 22 G Phlebitis Scale
+ 228016 | 22 G Infiltration Scale
+ 228096 | Richmond-RAS Scale
+ 228097 | 14 Gauge placed in the field
+ 228098 | 16 Gauge placed in the field
+ 228099 | 18 Gauge placed in the field
+ 228100 | 20 Gauge placed in the field
+ 228101 | 22 Gauge placed in the field
+ 228102 | Enema administration
+ 228137 | CHG Bath
+ 228175 | Calibrated (PiCCO)
+ 228176 | CFI (PiCCO)
+ 228177 | CI (PiCCO)
+ 228178 | CO (PiCCO)
+ 228179 | ELWI (PiCCO)
+ 228180 | GEDI (PiCCO)
+ 228181 | ITBVI (PiCCO)
+ 228182 | SVI (PiCCO)
+ 228184 | SVV (PiCCO)
+ 228185 | SVRI (PiCCO)
+ 228186 | Access Site Observed (Tandem Heart)
+ 228187 | Cannulas Visible
+ 228188 | Change in Blood Color
+ 228189 | CO-Tandem Heart Flow
+ 228190 | Infusate Drops/Minute
+ 228191 | Infusion Pressure of Line
+ 228192 | Oxygenator Sweep Rate
+ 228193 | Oxygenator/ECMO
+ 228194 | Peripheral Pulses (Tandem Heart)
+ 228195 | Pump Speed
+ 228196 | Return Site Observed (Tandem Heart)
+ 228198 | Tandem Heart Flow
+ 228199 | Type (Tandem Heart)
+ 228200 | Vibration in Line
+ 228203 | Tandem Heart Access Line Cannula Site
+ 228204 | Tandem Heart Access Line Catheter Length
+ 228206 | Tandem Heart Access Line Discontinued
+ 228208 | Tandem Heart Access Line Dressing Occlusive
+ 228210 | Tandem Heart Access Line Position
+ 228211 | Tandem Heart Access Line Postion Confirmed
+ 228212 | Tandem Heart Access Line Pump Housing Checked
+ 228213 | Tandem Heart Access Line Repositioned
+ 228214 | Tandem Heart Access Line Site Appear
+ 228216 | Tandem Heart Access Line Type
+ 228217 | Tandem Heart Return Cannula Discontinued
+ 228219 | Tandem Heart Return Cannula Dressing Occlusive
+ 228222 | Tandem Heart Return Cannula Migration
+ 228223 | Tandem Heart Return Cannula Position
+ 228224 | Tandem Heart Return Cannula Repositioned
+ 228225 | Tandem Heart Return Cannula Site
+ 228226 | Tandem Heart Return Cannula Site Appear
+ 228227 | Tandem Heart Return Cannula Size
+ 228229 | PAR-Activity
+ 228230 | PAR-Circulation
+ 228231 | PAR-Consciousness
+ 228232 | PAR-Oxygen saturation
+ 228233 | PAR-Remain sedated
+ 228234 | PAR-Respiration
+ 228236 | Insulin pump
+ 228290 | IO Dressing
+ 228292 | IO Placed in outside facility
+ 228293 | IO Site Appearance
+ 228294 | IO Wristband in place
+ 228296 | PCA concentrations
+ 228297 | Daily Wake Up Deferred
+ 228298 | Daily Wake Up
+ 228299 | Goal Richmond-RAS Scale
+ 228300 | CAM-ICU MS change
+ 228301 | CAM-ICU Inattention
+ 228302 | CAM-ICU RASS LOC
+ 228303 | CAM-ICU Disorganized thinking
+ 228305 | ST Segment Monitoring On
+ 228306 | Assistance Device
+ 228307 | GI #1 Tube Place Check
+ 228308 | GI #1 Tube Place Method
+ 228309 | GI #2 Tube Place Check
+ 228310 | GI #2 Tube Place Method
+ 228311 | GI #3 Tube Place Check
+ 228312 | GI #3 Tube Place Method
+ 228318 | Shivering Assessment
+ 228332 | Delirium assessment
+ 228334 | CAM-ICU Altered LOC
+ 228335 | CAM-ICU Disorganized thinking
+ 228336 | CAM-ICU Inattention
+ 228337 | CAM-ICU MS Change
+ 228343 | OCAT - Lips Tongue Gums Palate
+ 228344 | OCAT - Saliva secretions, Voice quality
+ 228345 | OCAT - Swallow
+ 228346 | OCAT - Teeth
+ 228368 | Cardiac Index (CI NICOM)
+ 228369 | Cardiac Output (CO NICOM)
+ 228370 | CO / CI Change
+ 228372 | Leg Raise Result (NICOM)
+ 228373 | Passive Leg Raise Performed
+ 228374 | Stroke Volume (SV NICOM)
+ 228375 | Stroke Volume Index (SVI NICOM)
+ 228376 | Stroke Volume Variation (SVV NICOM)
+ 228377 | SVI Change
+ 228378 | TFCd (NICOM)
+ 228379 | TFCd0 (NICOM)
+ 228380 | Thoracic Fluid Content (TFC) (NICOM)
+ 228381 | Total Peripheral Resistance (TPR) (NICOM)
+ 228382 | Total Peripheral Resistance Index (TPRI) (NICOM)
+ 228392 | Alsius Bath Temp
+ 228393 | Bath
+ 228394 | Orientation to Person
+ 228395 | Orientation to Place
+ 228396 | Orientation to Time
+ 228397 | Commands Response
+ 228398 | Commands
+ 228399 | Facial Droop
+ 228400 | Visual Field Cut
+ 228401 | Pronator Drift
+ 228402 | Neurological Symptoms
+ 228404 | Motor L Arm
+ 228405 | Motor L Leg
+ 228406 | Motor R Arm
+ 228407 | Motor R Leg
+ 228409 | Strength L Arm
+ 228410 | Strength L Leg
+ 228411 | Strength R Leg
+ 228412 | Strength R Arm
+ 228413 | Seizure Activity
+ 228414 | Speech
+ 228415 | Corneal Reflex Left
+ 228416 | Corneal Reflex Right
+ 228419 | Compression device # 1
+ 228420 | Compression device # 2
+ 228442 | BIS - EMG
+ 228443 | BIS - SQI
+ 228444 | BIS Index Range
+(3808 rows)
+
