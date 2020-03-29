@@ -8,23 +8,15 @@
     <link rel="stylesheet" href="css/sepsis.css">
     <script src="js/bootstrap.bundle.min.js"></script>
     <script src="js/bootstrap.js"></script>
-    <script>
-        function offsetAnchor() {
-            
-            if(location.hash.length !== 0) {
-                window.scrollTo(window.scrollX, window.scrollY - document.documentElement.clientHeight*0.1);
-            }
-        }
-        window.addEventListener("hashchange", offsetAnchor);
-        window.setTimeout(offsetAnchor, 1);         
-    </script>
 </head>
 <body>
-    <header id="my-header" class="sticky-top">
+    <header id="my-header" class="fixed-top">
         <h1 id="title" class="mb-0">Sepsis Analysis & Prediction</h1>
     </header>
 
-    <div class="container-fluid md-5" id="purpose">
+    <h1 class="mb-0" style="color: #e3f2fd;" id="purpose">Sepsis Analysis & Prediction</h1>
+
+    <div class="container-fluid md-5" id="my-purpose">
 
         <div class="card">
             <div class="card-body mt-md-5 mb-md-5 pb-md-5">
@@ -38,10 +30,10 @@
         </div> 
         
     </div>
-    <div class="container-fluid mt-5" >
-
-        <div class="card mt-5" id="model">
-            <div class="card-body mt-md-5 mb-md-5 pb-md-5 rest-card">
+    <div class="container-fluid" >
+        <h1 class="mb-0" style="color: #e3f2fd;" id="model">Sepsis Analysis & Prediction</h1>
+        <div class="card mt-5">
+            <div class="card-body mb-md-5 pb-md-5 rest-card">
                 <div class="card-title text-center mt-5">
                     <h1><span class="badge badge-info">Model</span></h1>
                 </div>
@@ -50,8 +42,9 @@
                 </p>
             </div>
         </div>
-        <div class="card mt-5" id="usage">
-            <div class="card-body mt-md-5 mb-md-5 pb-md-5 rest-card">
+        <h1 class="mb-0" style="color: #e3f2fd;" id="usage">Sepsis Analysis & Prediction</h1>
+        <div class="card mt-5" >
+            <div class="card-body mb-md-5 pb-md-5 rest-card">
                 <div class="card-title text-center mt-5">
                     <h1><span class="badge badge-info">Usage</span></h1>
                 </div>
@@ -60,8 +53,9 @@
                 </p>
             </div>
         </div>
-        <div class="card mt-5 mb-5" id="references">
-            <div class="card-body mt-md-5 mb-md-5 pb-md-5 rest-card">
+        <h1 class="mb-0" style="color: #e3f2fd;" id="references">Sepsis Analysis & Prediction</h1>
+        <div class="card mt-5 mb-5">
+            <div class="card-body mb-md-5 pb-md-5 rest-card">
                 <div class="card-title text-center mt-5">
                     <h1><span class="badge badge-info">References</span></h1>
                 </div>
@@ -70,8 +64,9 @@
                 </p>
             </div>
         </div>
+        <h1 class="mb-0" style="color: #e3f2fd;">Sepsis Analysis & Prediction</h1>
     </div>    
-        <footer>
+    <footer>
             <nav class="navbar fixed-bottom navbar-expand navbar-light">
                 <div id="navbarNav">
                   <ul class="navbar-nav">
@@ -90,7 +85,7 @@
                   </ul>
                 </div>
               </nav>
-        </footer>
+    </footer>
 
 </body>
 </html>
