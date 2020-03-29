@@ -1,0 +1,22 @@
+#title{
+    letter-spacing: 5pt;
+    background-color: #0feeee;
+    color: #ffffff;
+    text-align: center;
+    font-size: vw;
+}
+
+#purpose{
+ background-image: url(../images/icu-bg.jpg);
+ background-repeat: no-repeat;
+ background-size: cover;
+ color: aliceblue;
+}
+
+.card{
+    background: transparent;
+}
+
+.navbar{
+    background-color: #e3f2fd;
+}
