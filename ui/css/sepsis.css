@@ -1,6 +1,6 @@
 #title{
     letter-spacing: 5pt;
-    background-color: #0feeee;
+    background-color:#17a2b8;
     color: #ffffff;
     text-align: center;
     font-size: vw;
@@ -10,13 +10,34 @@
  background-image: url(../images/icu-bg.jpg);
  background-repeat: no-repeat;
  background-size: cover;
- color: aliceblue;
+}
+
+#purpose-body{
+    color: aliceblue;
+    text-shadow: 1px 1px 2px black;
+}
+
+.rest-body{
+    color: aliceblue;
+    text-shadow: 1px 1px 2px black;
+}
+
+.rest-card{
+    border: 2px solid rgba(0,0,0,.125);
+    border-radius: 25px;
 }
 
 .card{
     background: transparent;
+    border: 0px;
 }
 
 .navbar{
     background-color: #e3f2fd;
 }
+
+.container-fluid{
+    background-color: #e3f2fd;
+}
+
+
