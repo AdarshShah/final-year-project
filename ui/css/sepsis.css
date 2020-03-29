@@ -6,6 +6,10 @@
     font-size: vw;
 }
 
+header{
+    border-bottom: 1px solid rgba(0,0,0,.125) ;
+}
+
 #purpose{
  background-image: url(../images/icu-bg.jpg);
  background-repeat: no-repeat;
@@ -36,8 +40,12 @@
     background-color: #e3f2fd;
 }
 
-.container-fluid{
+body{
     background-color: #e3f2fd;
+}
+
+footer{
+    background-color: #17a2b8;
 }
 
 
