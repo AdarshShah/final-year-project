@@ -1,1 +1,43 @@
-<mxfile host="app.diagrams.net" modified="2020-03-13T07:27:10.652Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.132 Safari/537.36" etag="5KQ22vwhKm0NH8D7mYUN" version="12.8.4" type="github"><diagram id="AOdCBjQP3iCdc09UfVeR" name="Page-1">5VfbctowEP0aHtPxBRLyWkIaZqBt4pmmfRTWYqs1WleWueTrK1myjWJC6UwCnckLaI9W8mp3j3bVC0fLzSdB8nSGFLJe4NFNL7zpBUHgX3nqTyNbg/ieFxokEYxarAUi9gS1okVLRqFwFCViJlnugjFyDrF0MCIErl21BWbuV3OSQAeIYpJ10UdGZWrQYXDV4nfAkrT+sn95bWaWpFa2JylSQnG9A4XjXjgSiNKMlpsRZNp7tV/MutsXZhvDBHB5zAKcyou75f14HKXx7wf21C8eP1/49hyF3NYnBqocYEUUMsUEOcnGLfpRYMkp6G09JbU6U8Rcgb4Cf4KUWxtNUkpUUCqXmZ1VFovtd73+w6AWf9jtKuFm40hbKxlbtYEv+sBCBZYihkMHt7lERALygF6/iZTKccAlKHvUOgEZkWzl2kFsriWNXhsONbAR+ZfomH1XJCvtl24Zp4wnOr+wkMYQWBGuh5RIUqW40D4RQFksGXIl4EL9RJAXrHg29Sz2bWR1mNYpkxDlpHLkWhHcjaI1DoSEzeF4dP1nF4Q1Oez1EHhWXrdca7B0h2eX3lu5/PKdEiI4khAvBPQ0hAg6hJhNZhO1lzeZTCwF5qSATgzV5ZvrYbzNFINA/D275yam03kDkPhXUkX6SynVLvCKNBi4NBh2WeD397Bg+GYsGL5TFvSPZcFZadDv0OCh5NzUheh+qm987rDBI5xW4URhtKqluhhkqHqdTJvO9JJR9M2UENW+/AfVYeDQIvT38OL6pNXh+p3ywj+2X/KDszZM3Y7pq4BcYAxFYTLfdEnnzuyBm9n9fZkdnjSzu6W1vVMoWyygOlvgzUic6uIXeFMggtfNqHr4Fc09s2i61DlUXeqCyVrr/L4P3WI72NNz+sPX8b0S2wdeNbfzTg7HfwA=</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2020-03-29T08:49:55.010Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.149 Safari/537.36" etag="afgFUucBkAzlnxvYxO_7" version="12.9.3" type="github">
+  <diagram id="AOdCBjQP3iCdc09UfVeR" name="Page-1">
+    <mxGraphModel dx="868" dy="450" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="oLt-HmQEEShcqRiz4sWN-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="oLt-HmQEEShcqRiz4sWN-1" target="oLt-HmQEEShcqRiz4sWN-4" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="oLt-HmQEEShcqRiz4sWN-1" value="Finding most relevant data for prediction of Sepsis prediction" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="320" y="200" width="200" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="oLt-HmQEEShcqRiz4sWN-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="oLt-HmQEEShcqRiz4sWN-2" target="oLt-HmQEEShcqRiz4sWN-1" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="oLt-HmQEEShcqRiz4sWN-2" value="MIMIC III database" style="shape=cylinder;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;" parent="1" vertex="1">
+          <mxGeometry x="350" y="80" width="140" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="oLt-HmQEEShcqRiz4sWN-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="oLt-HmQEEShcqRiz4sWN-4" target="oLt-HmQEEShcqRiz4sWN-11" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="oLt-HmQEEShcqRiz4sWN-4" value="Running SQL on database and storing values locally in CSV format" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="325" y="310" width="190" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="oLt-HmQEEShcqRiz4sWN-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="oLt-HmQEEShcqRiz4sWN-11" target="oLt-HmQEEShcqRiz4sWN-12" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="oLt-HmQEEShcqRiz4sWN-11" value="Preprocessing data" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="355" y="410" width="130" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="TDBAlqNFFYo22I7GlYlX-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="oLt-HmQEEShcqRiz4sWN-12" target="TDBAlqNFFYo22I7GlYlX-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="oLt-HmQEEShcqRiz4sWN-12" value="Running Machine Learning models and finding accuracy" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="330" y="500" width="180" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="TDBAlqNFFYo22I7GlYlX-1" value="Storing result in database" style="shape=cylinder;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;" vertex="1" parent="1">
+          <mxGeometry x="370" y="600" width="100" height="80" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
