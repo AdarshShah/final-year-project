@@ -37,7 +37,12 @@ header{
 }
 
 .navbar{
-    background-color: #e3f2fd;
+    background-color: #17a2b8;
+    color: white;
+}
+
+a.nav-link{
+    color: white;
 }
 
 body{
@@ -45,6 +50,7 @@ body{
 }
 
 footer{
+    border-top: 1px solid rgba(0,0,0,.125) ;
     background-color: #17a2b8;
 }
 
