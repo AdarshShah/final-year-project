@@ -1,0 +1,43 @@
+<mxfile host="app.diagrams.net" modified="2020-03-29T08:49:55.010Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.149 Safari/537.36" etag="afgFUucBkAzlnxvYxO_7" version="12.9.3" type="github">
+  <diagram id="AOdCBjQP3iCdc09UfVeR" name="Page-1">
+    <mxGraphModel dx="868" dy="450" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="oLt-HmQEEShcqRiz4sWN-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="oLt-HmQEEShcqRiz4sWN-1" target="oLt-HmQEEShcqRiz4sWN-4" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="oLt-HmQEEShcqRiz4sWN-1" value="Finding most relevant data for prediction of Sepsis prediction" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="320" y="200" width="200" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="oLt-HmQEEShcqRiz4sWN-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="oLt-HmQEEShcqRiz4sWN-2" target="oLt-HmQEEShcqRiz4sWN-1" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="oLt-HmQEEShcqRiz4sWN-2" value="MIMIC III database" style="shape=cylinder;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;" parent="1" vertex="1">
+          <mxGeometry x="350" y="80" width="140" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="oLt-HmQEEShcqRiz4sWN-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="oLt-HmQEEShcqRiz4sWN-4" target="oLt-HmQEEShcqRiz4sWN-11" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="oLt-HmQEEShcqRiz4sWN-4" value="Running SQL on database and storing values locally in CSV format" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="325" y="310" width="190" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="oLt-HmQEEShcqRiz4sWN-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="oLt-HmQEEShcqRiz4sWN-11" target="oLt-HmQEEShcqRiz4sWN-12" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="oLt-HmQEEShcqRiz4sWN-11" value="Preprocessing data" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="355" y="410" width="130" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="TDBAlqNFFYo22I7GlYlX-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="oLt-HmQEEShcqRiz4sWN-12" target="TDBAlqNFFYo22I7GlYlX-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="oLt-HmQEEShcqRiz4sWN-12" value="Running Machine Learning models and finding accuracy" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="330" y="500" width="180" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="TDBAlqNFFYo22I7GlYlX-1" value="Storing result in database" style="shape=cylinder;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;" vertex="1" parent="1">
+          <mxGeometry x="370" y="600" width="100" height="80" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
