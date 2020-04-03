@@ -51,16 +51,16 @@ public final class Patient {
 		try {
 			Statement stmt = conn.createStatement();
 			ResultSet result = stmt.executeQuery("SELECT * FROM sepsis_dataset WHERE icustay_id = "+this.icustayId);
-			if(result.next()) {
-				this.sepsis = result.getInt("sepsis_explicit");
 		
+			while(result.next()) {
+				this.sepsis = result.getInt("sepsis_explicit");
+				System.out.println(this.sepsis);
 				for(int i=0 ; i < this.vitals[0].length ; i++) {
+					System.out.print(" "+result.getDouble(i+3));
 					this.vitals[0][i] = result.getDouble(i+3);
 				}
 			}
-			else {
-				this.icustayId = -1;
-			}
+			
 		} catch (SQLException e) {
 			// TODO Auto-generated catch block
 			e.printStackTrace();
@@ -104,7 +104,7 @@ public final class Patient {
 
 	}
 	public static void main(String[] args) {
-		Patient p =new Patient(200021);
+		Patient p =new Patient(203111);
 		p.calculatePrediction();
 		System.out.println(p);
 	}

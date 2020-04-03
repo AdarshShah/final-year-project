@@ -33,6 +33,7 @@ public final class SepsisPredictor extends HttpServlet {
 		// TODO Auto-generated method stub
 		int icustayId = Integer.parseInt(request.getParameter("icustayId"));
 		Patient p = new Patient(icustayId);
+		p.calculatePrediction();
 		double result = p.getPrediction();
 		int sepsis = p.getSepsis();
 		PrintWriter writer = response.getWriter();
