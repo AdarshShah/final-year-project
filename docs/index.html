@@ -6,8 +6,10 @@
     <title>Sepsis Analysis</title>
     <link rel="stylesheet" href="css/bootstrap.min.css">
     <link rel="stylesheet" href="css/sepsis.css">
+    <script src="js/jquery-3.4.1.min.js"></script>
     <script src="js/bootstrap.bundle.min.js"></script>
     <script src="js/bootstrap.js"></script>
+    
 </head>
 <body>
     <header id="my-header" class="fixed-top">
@@ -24,7 +26,7 @@
                     <span class="badge badge-secondary badge-info">Purpose</span>
                 </h1>
                 <p class="card-text mt-5 mb-md-5 pb-md-5 lead text-justify" id="purpose-body">
-                    Lorem, ipsum dolor sit amet consectetur adipisicing elit. Consequuntur dolor accusamus repellendus obcaecati mollitia voluptatem officiis! Veritatis consequatur, aliquid, magni nam quasi delectus distinctio animi quisquam autem tenetur obcaecati cumque!
+                    Sepsis is life threatening condition caused by body’s response to an infection.  Body normally releases chemicals into the bloodstream to fight an infection. Sepsis occurs when body’s response to these chemicals is out of balance, triggering changes that can damage multiple organ systems. The core aim of Sepsis Analysis and Prediction is to cure patients by early sepsis prediction through the use of our trained neural network model.
                 </p>
                 <h1 class="mb-0" style="color: transparent; background-color: transparent;">Sepsis Analysis & Prediction</h1>
             </div>
@@ -39,32 +41,44 @@
                     <h1><span class="badge badge-info">Model</span></h1>
                 </div>
                 <p class="card-text mt-5 mb-md-5 pb-md-5 lead text-justify rest-body">
-                    Lorem, ipsum dolor sit amet consectetur adipisicing elit. Consequuntur dolor accusamus repellendus obcaecati mollitia voluptatem officiis! Veritatis consequatur, aliquid, magni nam quasi delectus distinctio animi quisquam autem tenetur obcaecati cumque!
+                    The core of our project is the Deep Neural Network Model trained with 45561 parameters at 6 layers for 50 epochs taking 96 inputs.
+                    By Try and Error, we found the best result at 50 epochs, hence we have used the model trained at 50 epochs. Also, we have used 45561 total parameters out of which all are trained in the training phase.
                 </p>
             </div>
         </div>
         <h1 class="mb-0" style="color: #e3f2fd;" id="usage">Sepsis Analysis & Prediction</h1>
-        <div class="card mt-5" >
+        <div class="card mt-5 mb-5">
             <div class="card-body mb-md-5 pb-md-5 rest-card">
                 <div class="card-title text-center mt-5">
                     <h1><span class="badge badge-info">Usage</span></h1>
                 </div>
-                <p class="card-text mt-5 mb-md-5 pb-md-5 lead text-justify rest-body">
-                    Lorem, ipsum dolor sit amet consectetur adipisicing elit. Consequuntur dolor accusamus repellendus obcaecati mollitia voluptatem officiis! Veritatis consequatur, aliquid, magni nam quasi delectus distinctio animi quisquam autem tenetur obcaecati cumque!
-                </p>
+                <div class="card-text mt-5 mb-md-5 pb-md-5 lead text-center rest-body">
+                    <div class="form-group">
+                        <label for="icustayId">IcustayId :</label>
+                        <input class="form-control" type="text" id="icustayId">
+                    </div>
+                    <button class="badge badge-info" type="submit" id="fetch" name="fetch">Fetch</button></td>
+                    <p id="result"></p>
+                </div>
+                
             </div>
         </div>
+
         <h1 class="mb-0" style="color: #e3f2fd;" id="references">Sepsis Analysis & Prediction</h1>
         <div class="card mt-5 mb-5">
             <div class="card-body mb-md-5 pb-md-5 rest-card">
                 <div class="card-title text-center mt-5">
                     <h1><span class="badge badge-info">References</span></h1>
                 </div>
-                <p class="card-text mt-5 mb-md-5 pb-md-5 lead text-justify rest-body">
-                    Lorem, ipsum dolor sit amet consectetur adipisicing elit. Consequuntur dolor accusamus repellendus obcaecati mollitia voluptatem officiis! Veritatis consequatur, aliquid, magni nam quasi delectus distinctio animi quisquam autem tenetur obcaecati cumque!
-                </p>
+                    <p class="card-text mb-md-5 pb-md-5 lead text-justify rest-body">
+                        MIMIC-III, a freely accessible critical care database. Johnson AEW, Pollard TJ, Shen L, Lehman L, Feng M, Ghassemi M, Moody B, Szolovits P, Celi LA, and Mark RG. Scientific Data (2016). DOI: 10.1038/sdata.2016.35.<br/><br/>
+                        Crit Care Med. 2018 Apr;46(4):494-499. doi: 10.1097/CCM.0000000000002965. A Comparative Analysis of Sepsis Identification Methods in an Electronic Database. Johnson , Aboab , Raffa , Pollard , Deliberato , Celi , Stone<br/><br/>
+                        https://www.mimic.physionet.org . It contains database documentation.<br/><br/>
+                        The Third International Consensus Definitions for Sepsis and Septic Shock (Sepsis-3). Singer M1, Deutschman CS2, Seymour CW3, Shankar-Hari M4, Annane D5, Bauer M6, Bellomo R7, Bernard GR8, Chiche JD9, Coopersmith CM10, Hotchkiss RS11, Levy MM12, Marshall JC13, Martin GS14, Opal SM12, Rubenfeld GD15, van der Poll T16, Vincent JL17, Angus DC18
+                    </p>
             </div>
         </div>
+        <h1 class="mb-0" style="color: #e3f2fd;">Sepsis Analysis & Prediction</h1>
         <h1 class="mb-0" style="color: #e3f2fd;">Sepsis Analysis & Prediction</h1>
         <h1 class="mb-0" style="color: #e3f2fd;">Sepsis Analysis & Prediction</h1>
     </div>    
@@ -90,4 +104,14 @@
     </footer>
 
 </body>
+<script>
+    $("#fetch").click(function(){ 
+        var str = $("#icustayId").val(); 
+        $.get("http://localhost:8080/sepsis-web-portal/SepsisPredictor",{
+            icustayId : str
+        },function(data){
+            document.getElementById("result").innerText = data;
+        });
+    });
+</script>
 </html>
